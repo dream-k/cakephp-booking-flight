@@ -1,0 +1,8770 @@
+Air Pricing Solutions Details 1:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 579
+From LAD
+To CPT
+Depart 2019-09-11T08:40:00.000+01:00
+Arrive 2019-09-11T13:40:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 580
+From CPT
+To LAD
+Depart 2019-09-15T16:20:00.000+02:00
+Arrive 2019-09-15T19:20:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKASievBAAAAA==
+Total Price: AOA124931
+Base Price: USD276.00
+Approx. Total Price: USD348.56
+Approx. Base Price: USD275.95
+Taxes: AOA26024
+Approx. Taxes: USD72.61
+Refundable: true
+
+Air Pricing Solutions Details 2:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7040
+From LAD
+To CPT
+Depart 2019-09-11T08:40:00.000+01:00
+Arrive 2019-09-11T13:40:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7039
+From CPT
+To LAD
+Depart 2019-09-15T16:20:00.000+02:00
+Arrive 2019-09-15T19:20:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKACjevBAAAAA==
+Total Price: AOA124931
+Base Price: USD276.00
+Approx. Total Price: USD348.56
+Approx. Base Price: USD275.95
+Taxes: AOA26024
+Approx. Taxes: USD72.61
+
+Air Pricing Solutions Details 3:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 579
+From LAD
+To CPT
+Depart 2019-09-11T08:40:00.000+01:00
+Arrive 2019-09-11T13:40:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 314
+From CPT
+To JNB
+Depart 2019-09-15T07:30:00.000+02:00
+Arrive 2019-09-15T09:25:00.000+02:00
+Airline: DT
+Flight 578
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKATkevBAAAAA==
+Total Price: AOA151594
+Base Price: USD276.00
+Approx. Total Price: USD422.95
+Approx. Base Price: USD275.95
+Taxes: AOA52687
+Approx. Taxes: USD147.00
+Refundable: true
+
+Air Pricing Solutions Details 4:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 579
+From LAD
+To CPT
+Depart 2019-09-11T08:40:00.000+01:00
+Arrive 2019-09-11T13:40:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 308
+From CPT
+To JNB
+Depart 2019-09-15T06:20:00.000+02:00
+Arrive 2019-09-15T08:15:00.000+02:00
+Airline: DT
+Flight 578
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAhkevBAAAAA==
+Total Price: AOA151594
+Base Price: USD276.00
+Approx. Total Price: USD422.95
+Approx. Base Price: USD275.95
+Taxes: AOA52687
+Approx. Taxes: USD147.00
+Refundable: true
+
+Air Pricing Solutions Details 5:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 579
+From LAD
+To CPT
+Depart 2019-09-11T08:40:00.000+01:00
+Arrive 2019-09-11T13:40:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 302
+From CPT
+To JNB
+Depart 2019-09-15T06:00:00.000+02:00
+Arrive 2019-09-15T07:55:00.000+02:00
+Airline: DT
+Flight 578
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAvkevBAAAAA==
+Total Price: AOA151594
+Base Price: USD276.00
+Approx. Total Price: USD422.95
+Approx. Base Price: USD275.95
+Taxes: AOA52687
+Approx. Taxes: USD147.00
+Refundable: true
+
+Air Pricing Solutions Details 6:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 579
+From LAD
+To CPT
+Depart 2019-09-11T08:40:00.000+01:00
+Arrive 2019-09-11T13:40:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 372
+From CPT
+To JNB
+Depart 2019-09-15T19:55:00.000+02:00
+Arrive 2019-09-15T21:50:00.000+02:00
+Airline: DT
+Flight 576
+From JNB
+To LAD
+Depart 2019-09-16T06:50:00.000+02:00
+Arrive 2019-09-16T09:50:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKA7kevBAAAAA==
+Total Price: AOA151594
+Base Price: USD276.00
+Approx. Total Price: USD422.95
+Approx. Base Price: USD275.95
+Taxes: AOA52687
+Approx. Taxes: USD147.00
+Refundable: true
+
+Air Pricing Solutions Details 7:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 577
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 347
+From JNB
+To CPT
+Depart 2019-09-11T15:30:00.000+02:00
+Arrive 2019-09-11T17:40:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 580
+From CPT
+To LAD
+Depart 2019-09-15T16:20:00.000+02:00
+Arrive 2019-09-15T19:20:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAJlevBAAAAA==
+Total Price: AOA151594
+Base Price: USD276.00
+Approx. Total Price: USD422.95
+Approx. Base Price: USD275.95
+Taxes: AOA52687
+Approx. Taxes: USD147.00
+Refundable: true
+
+Air Pricing Solutions Details 8:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 577
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 357
+From JNB
+To CPT
+Depart 2019-09-11T17:05:00.000+02:00
+Arrive 2019-09-11T19:15:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 580
+From CPT
+To LAD
+Depart 2019-09-15T16:20:00.000+02:00
+Arrive 2019-09-15T19:20:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAXlevBAAAAA==
+Total Price: AOA151594
+Base Price: USD276.00
+Approx. Total Price: USD422.95
+Approx. Base Price: USD275.95
+Taxes: AOA52687
+Approx. Taxes: USD147.00
+Refundable: true
+
+Air Pricing Solutions Details 9:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 577
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 363
+From JNB
+To CPT
+Depart 2019-09-11T18:45:00.000+02:00
+Arrive 2019-09-11T20:55:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 580
+From CPT
+To LAD
+Depart 2019-09-15T16:20:00.000+02:00
+Arrive 2019-09-15T19:20:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAjlevBAAAAA==
+Total Price: AOA151594
+Base Price: USD276.00
+Approx. Total Price: USD422.95
+Approx. Base Price: USD275.95
+Taxes: AOA52687
+Approx. Taxes: USD147.00
+Refundable: true
+
+Air Pricing Solutions Details 10:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 577
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 377
+From JNB
+To CPT
+Depart 2019-09-11T21:15:00.000+02:00
+Arrive 2019-09-11T23:25:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 580
+From CPT
+To LAD
+Depart 2019-09-15T16:20:00.000+02:00
+Arrive 2019-09-15T19:20:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAvlevBAAAAA==
+Total Price: AOA151594
+Base Price: USD276.00
+Approx. Total Price: USD422.95
+Approx. Base Price: USD275.95
+Taxes: AOA52687
+Approx. Taxes: USD147.00
+Refundable: true
+
+Air Pricing Solutions Details 11:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 347
+From JNB
+To CPT
+Depart 2019-09-11T15:30:00.000+02:00
+Arrive 2019-09-11T17:40:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7039
+From CPT
+To LAD
+Depart 2019-09-15T16:20:00.000+02:00
+Arrive 2019-09-15T19:20:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKA7levBAAAAA==
+Total Price: AOA153744
+Base Price: USD312.00
+Approx. Total Price: USD428.94
+Approx. Base Price: USD311.94
+Taxes: AOA41936
+Approx. Taxes: USD117.00
+
+Air Pricing Solutions Details 12:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 357
+From JNB
+To CPT
+Depart 2019-09-11T17:05:00.000+02:00
+Arrive 2019-09-11T19:15:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7039
+From CPT
+To LAD
+Depart 2019-09-15T16:20:00.000+02:00
+Arrive 2019-09-15T19:20:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAHmevBAAAAA==
+Total Price: AOA153744
+Base Price: USD312.00
+Approx. Total Price: USD428.94
+Approx. Base Price: USD311.94
+Taxes: AOA41936
+Approx. Taxes: USD117.00
+
+Air Pricing Solutions Details 13:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 55
+From LAD
+To JNB
+Depart 2019-09-11T13:25:00.000+01:00
+Arrive 2019-09-11T17:45:00.000+02:00
+Airline: SA
+Flight 377
+From JNB
+To CPT
+Depart 2019-09-11T21:15:00.000+02:00
+Arrive 2019-09-11T23:25:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7039
+From CPT
+To LAD
+Depart 2019-09-15T16:20:00.000+02:00
+Arrive 2019-09-15T19:20:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAUmevBAAAAA==
+Total Price: AOA153744
+Base Price: USD312.00
+Approx. Total Price: USD428.94
+Approx. Base Price: USD311.94
+Taxes: AOA41936
+Approx. Taxes: USD117.00
+
+Air Pricing Solutions Details 14:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 363
+From JNB
+To CPT
+Depart 2019-09-11T18:45:00.000+02:00
+Arrive 2019-09-11T20:55:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7039
+From CPT
+To LAD
+Depart 2019-09-15T16:20:00.000+02:00
+Arrive 2019-09-15T19:20:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKA/jevBAAAAA==
+Total Price: AOA153744
+Base Price: USD312.00
+Approx. Total Price: USD428.94
+Approx. Base Price: USD311.94
+Taxes: AOA41936
+Approx. Taxes: USD117.00
+
+Air Pricing Solutions Details 15:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7040
+From LAD
+To CPT
+Depart 2019-09-11T08:40:00.000+01:00
+Arrive 2019-09-11T13:40:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 326
+From CPT
+To JNB
+Depart 2019-09-15T11:25:00.000+02:00
+Arrive 2019-09-15T13:20:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAjmevBAAAAA==
+Total Price: AOA153744
+Base Price: USD312.00
+Approx. Total Price: USD428.94
+Approx. Base Price: USD311.94
+Taxes: AOA41936
+Approx. Taxes: USD117.00
+
+Air Pricing Solutions Details 16:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7040
+From LAD
+To CPT
+Depart 2019-09-11T08:40:00.000+01:00
+Arrive 2019-09-11T13:40:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 314
+From CPT
+To JNB
+Depart 2019-09-15T07:30:00.000+02:00
+Arrive 2019-09-15T09:25:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKA8mevBAAAAA==
+Total Price: AOA153744
+Base Price: USD312.00
+Approx. Total Price: USD428.94
+Approx. Base Price: USD311.94
+Taxes: AOA41936
+Approx. Taxes: USD117.00
+
+Air Pricing Solutions Details 17:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7040
+From LAD
+To CPT
+Depart 2019-09-11T08:40:00.000+01:00
+Arrive 2019-09-11T13:40:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 308
+From CPT
+To JNB
+Depart 2019-09-15T06:20:00.000+02:00
+Arrive 2019-09-15T08:15:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAInevBAAAAA==
+Total Price: AOA153744
+Base Price: USD312.00
+Approx. Total Price: USD428.94
+Approx. Base Price: USD311.94
+Taxes: AOA41936
+Approx. Taxes: USD117.00
+
+Air Pricing Solutions Details 18:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7040
+From LAD
+To CPT
+Depart 2019-09-11T08:40:00.000+01:00
+Arrive 2019-09-11T13:40:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 302
+From CPT
+To JNB
+Depart 2019-09-15T06:00:00.000+02:00
+Arrive 2019-09-15T07:55:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAUnevBAAAAA==
+Total Price: AOA153744
+Base Price: USD312.00
+Approx. Total Price: USD428.94
+Approx. Base Price: USD311.94
+Taxes: AOA41936
+Approx. Taxes: USD117.00
+
+Air Pricing Solutions Details 19:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7040
+From LAD
+To CPT
+Depart 2019-09-11T08:40:00.000+01:00
+Arrive 2019-09-11T13:40:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 372
+From CPT
+To JNB
+Depart 2019-09-15T19:55:00.000+02:00
+Arrive 2019-09-15T21:50:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-16T16:35:00.000+02:00
+Arrive 2019-09-16T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAgnevBAAAAA==
+Total Price: AOA153744
+Base Price: USD312.00
+Approx. Total Price: USD428.94
+Approx. Base Price: USD311.94
+Taxes: AOA41936
+Approx. Taxes: USD117.00
+
+Air Pricing Solutions Details 20:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 5055
+From LAD
+To JNB
+Depart 2019-09-11T13:25:00.000+01:00
+Arrive 2019-09-11T17:45:00.000+02:00
+Airline: SA
+Flight 377
+From JNB
+To CPT
+Depart 2019-09-11T21:15:00.000+02:00
+Arrive 2019-09-11T23:25:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 580
+From CPT
+To LAD
+Depart 2019-09-15T16:20:00.000+02:00
+Arrive 2019-09-15T19:20:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAsnevBAAAAA==
+Total Price: AOA156611
+Base Price: USD290.00
+Approx. Total Price: USD436.95
+Approx. Base Price: USD289.95
+Taxes: AOA52687
+Approx. Taxes: USD147.00
+Refundable: true
+
+Air Pricing Solutions Details 21:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 2021
+From JNB
+To CPT
+Depart 2019-09-11T18:25:00.000+02:00
+Arrive 2019-09-11T20:35:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7039
+From CPT
+To LAD
+Depart 2019-09-15T16:20:00.000+02:00
+Arrive 2019-09-15T19:20:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKA6nevBAAAAA==
+Total Price: AOA160910
+Base Price: USD367.00
+Approx. Total Price: USD448.94
+Approx. Base Price: USD366.93
+Taxes: AOA29393
+Approx. Taxes: USD82.01
+
+Air Pricing Solutions Details 22:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7040
+From LAD
+To CPT
+Depart 2019-09-11T08:40:00.000+01:00
+Arrive 2019-09-11T13:40:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 2014
+From CPT
+To JNB
+Depart 2019-09-15T13:10:00.000+02:00
+Arrive 2019-09-15T15:05:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAZoevBAAAAA==
+Total Price: AOA162344
+Base Price: USD371.00
+Approx. Total Price: USD452.94
+Approx. Base Price: USD370.93
+Taxes: AOA29393
+Approx. Taxes: USD82.01
+
+Air Pricing Solutions Details 23:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7040
+From LAD
+To CPT
+Depart 2019-09-11T08:40:00.000+01:00
+Arrive 2019-09-11T13:40:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 2012
+From CPT
+To JNB
+Depart 2019-09-15T08:45:00.000+02:00
+Arrive 2019-09-15T10:40:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAxoevBAAAAA==
+Total Price: AOA162344
+Base Price: USD371.00
+Approx. Total Price: USD452.94
+Approx. Base Price: USD370.93
+Taxes: AOA29393
+Approx. Taxes: USD82.01
+
+Air Pricing Solutions Details 24:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 577
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 347
+From JNB
+To CPT
+Depart 2019-09-11T15:30:00.000+02:00
+Arrive 2019-09-11T17:40:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 314
+From CPT
+To JNB
+Depart 2019-09-15T07:30:00.000+02:00
+Arrive 2019-09-15T09:25:00.000+02:00
+Airline: DT
+Flight 578
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKA8oevBAAAAA==
+Total Price: AOA178257
+Base Price: USD276.00
+Approx. Total Price: USD497.34
+Approx. Base Price: USD275.95
+Taxes: AOA79350
+Approx. Taxes: USD221.39
+Refundable: true
+
+Air Pricing Solutions Details 25:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 577
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 357
+From JNB
+To CPT
+Depart 2019-09-11T17:05:00.000+02:00
+Arrive 2019-09-11T19:15:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 314
+From CPT
+To JNB
+Depart 2019-09-15T07:30:00.000+02:00
+Arrive 2019-09-15T09:25:00.000+02:00
+Airline: DT
+Flight 578
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAJpevBAAAAA==
+Total Price: AOA178257
+Base Price: USD276.00
+Approx. Total Price: USD497.34
+Approx. Base Price: USD275.95
+Taxes: AOA79350
+Approx. Taxes: USD221.39
+Refundable: true
+
+Air Pricing Solutions Details 26:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 577
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 363
+From JNB
+To CPT
+Depart 2019-09-11T18:45:00.000+02:00
+Arrive 2019-09-11T20:55:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 314
+From CPT
+To JNB
+Depart 2019-09-15T07:30:00.000+02:00
+Arrive 2019-09-15T09:25:00.000+02:00
+Airline: DT
+Flight 578
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAWpevBAAAAA==
+Total Price: AOA178257
+Base Price: USD276.00
+Approx. Total Price: USD497.34
+Approx. Base Price: USD275.95
+Taxes: AOA79350
+Approx. Taxes: USD221.39
+Refundable: true
+
+Air Pricing Solutions Details 27:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 577
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 377
+From JNB
+To CPT
+Depart 2019-09-11T21:15:00.000+02:00
+Arrive 2019-09-11T23:25:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 314
+From CPT
+To JNB
+Depart 2019-09-15T07:30:00.000+02:00
+Arrive 2019-09-15T09:25:00.000+02:00
+Airline: DT
+Flight 578
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAjpevBAAAAA==
+Total Price: AOA178257
+Base Price: USD276.00
+Approx. Total Price: USD497.34
+Approx. Base Price: USD275.95
+Taxes: AOA79350
+Approx. Taxes: USD221.39
+Refundable: true
+
+Air Pricing Solutions Details 28:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 577
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 347
+From JNB
+To CPT
+Depart 2019-09-11T15:30:00.000+02:00
+Arrive 2019-09-11T17:40:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 308
+From CPT
+To JNB
+Depart 2019-09-15T06:20:00.000+02:00
+Arrive 2019-09-15T08:15:00.000+02:00
+Airline: DT
+Flight 578
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAwpevBAAAAA==
+Total Price: AOA178257
+Base Price: USD276.00
+Approx. Total Price: USD497.34
+Approx. Base Price: USD275.95
+Taxes: AOA79350
+Approx. Taxes: USD221.39
+Refundable: true
+
+Air Pricing Solutions Details 29:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 577
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 357
+From JNB
+To CPT
+Depart 2019-09-11T17:05:00.000+02:00
+Arrive 2019-09-11T19:15:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 308
+From CPT
+To JNB
+Depart 2019-09-15T06:20:00.000+02:00
+Arrive 2019-09-15T08:15:00.000+02:00
+Airline: DT
+Flight 578
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKA9pevBAAAAA==
+Total Price: AOA178257
+Base Price: USD276.00
+Approx. Total Price: USD497.34
+Approx. Base Price: USD275.95
+Taxes: AOA79350
+Approx. Taxes: USD221.39
+Refundable: true
+
+Air Pricing Solutions Details 30:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 577
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 363
+From JNB
+To CPT
+Depart 2019-09-11T18:45:00.000+02:00
+Arrive 2019-09-11T20:55:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 308
+From CPT
+To JNB
+Depart 2019-09-15T06:20:00.000+02:00
+Arrive 2019-09-15T08:15:00.000+02:00
+Airline: DT
+Flight 578
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAKqevBAAAAA==
+Total Price: AOA178257
+Base Price: USD276.00
+Approx. Total Price: USD497.34
+Approx. Base Price: USD275.95
+Taxes: AOA79350
+Approx. Taxes: USD221.39
+Refundable: true
+
+Air Pricing Solutions Details 31:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 577
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 377
+From JNB
+To CPT
+Depart 2019-09-11T21:15:00.000+02:00
+Arrive 2019-09-11T23:25:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 308
+From CPT
+To JNB
+Depart 2019-09-15T06:20:00.000+02:00
+Arrive 2019-09-15T08:15:00.000+02:00
+Airline: DT
+Flight 578
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAXqevBAAAAA==
+Total Price: AOA178257
+Base Price: USD276.00
+Approx. Total Price: USD497.34
+Approx. Base Price: USD275.95
+Taxes: AOA79350
+Approx. Taxes: USD221.39
+Refundable: true
+
+Air Pricing Solutions Details 32:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 577
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 347
+From JNB
+To CPT
+Depart 2019-09-11T15:30:00.000+02:00
+Arrive 2019-09-11T17:40:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 302
+From CPT
+To JNB
+Depart 2019-09-15T06:00:00.000+02:00
+Arrive 2019-09-15T07:55:00.000+02:00
+Airline: DT
+Flight 578
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAkqevBAAAAA==
+Total Price: AOA178257
+Base Price: USD276.00
+Approx. Total Price: USD497.34
+Approx. Base Price: USD275.95
+Taxes: AOA79350
+Approx. Taxes: USD221.39
+Refundable: true
+
+Air Pricing Solutions Details 33:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 577
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 357
+From JNB
+To CPT
+Depart 2019-09-11T17:05:00.000+02:00
+Arrive 2019-09-11T19:15:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 302
+From CPT
+To JNB
+Depart 2019-09-15T06:00:00.000+02:00
+Arrive 2019-09-15T07:55:00.000+02:00
+Airline: DT
+Flight 578
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAxqevBAAAAA==
+Total Price: AOA178257
+Base Price: USD276.00
+Approx. Total Price: USD497.34
+Approx. Base Price: USD275.95
+Taxes: AOA79350
+Approx. Taxes: USD221.39
+Refundable: true
+
+Air Pricing Solutions Details 34:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 577
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 363
+From JNB
+To CPT
+Depart 2019-09-11T18:45:00.000+02:00
+Arrive 2019-09-11T20:55:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 302
+From CPT
+To JNB
+Depart 2019-09-15T06:00:00.000+02:00
+Arrive 2019-09-15T07:55:00.000+02:00
+Airline: DT
+Flight 578
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKA+qevBAAAAA==
+Total Price: AOA178257
+Base Price: USD276.00
+Approx. Total Price: USD497.34
+Approx. Base Price: USD275.95
+Taxes: AOA79350
+Approx. Taxes: USD221.39
+Refundable: true
+
+Air Pricing Solutions Details 35:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 577
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 377
+From JNB
+To CPT
+Depart 2019-09-11T21:15:00.000+02:00
+Arrive 2019-09-11T23:25:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 302
+From CPT
+To JNB
+Depart 2019-09-15T06:00:00.000+02:00
+Arrive 2019-09-15T07:55:00.000+02:00
+Airline: DT
+Flight 578
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKALrevBAAAAA==
+Total Price: AOA178257
+Base Price: USD276.00
+Approx. Total Price: USD497.34
+Approx. Base Price: USD275.95
+Taxes: AOA79350
+Approx. Taxes: USD221.39
+Refundable: true
+
+Air Pricing Solutions Details 36:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 577
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 347
+From JNB
+To CPT
+Depart 2019-09-11T15:30:00.000+02:00
+Arrive 2019-09-11T17:40:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 372
+From CPT
+To JNB
+Depart 2019-09-15T19:55:00.000+02:00
+Arrive 2019-09-15T21:50:00.000+02:00
+Airline: DT
+Flight 576
+From JNB
+To LAD
+Depart 2019-09-16T06:50:00.000+02:00
+Arrive 2019-09-16T09:50:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAYrevBAAAAA==
+Total Price: AOA178257
+Base Price: USD276.00
+Approx. Total Price: USD497.34
+Approx. Base Price: USD275.95
+Taxes: AOA79350
+Approx. Taxes: USD221.39
+Refundable: true
+
+Air Pricing Solutions Details 37:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 577
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 357
+From JNB
+To CPT
+Depart 2019-09-11T17:05:00.000+02:00
+Arrive 2019-09-11T19:15:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 372
+From CPT
+To JNB
+Depart 2019-09-15T19:55:00.000+02:00
+Arrive 2019-09-15T21:50:00.000+02:00
+Airline: DT
+Flight 576
+From JNB
+To LAD
+Depart 2019-09-16T06:50:00.000+02:00
+Arrive 2019-09-16T09:50:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAlrevBAAAAA==
+Total Price: AOA178257
+Base Price: USD276.00
+Approx. Total Price: USD497.34
+Approx. Base Price: USD275.95
+Taxes: AOA79350
+Approx. Taxes: USD221.39
+Refundable: true
+
+Air Pricing Solutions Details 38:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 577
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 363
+From JNB
+To CPT
+Depart 2019-09-11T18:45:00.000+02:00
+Arrive 2019-09-11T20:55:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 372
+From CPT
+To JNB
+Depart 2019-09-15T19:55:00.000+02:00
+Arrive 2019-09-15T21:50:00.000+02:00
+Airline: DT
+Flight 576
+From JNB
+To LAD
+Depart 2019-09-16T06:50:00.000+02:00
+Arrive 2019-09-16T09:50:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAyrevBAAAAA==
+Total Price: AOA178257
+Base Price: USD276.00
+Approx. Total Price: USD497.34
+Approx. Base Price: USD275.95
+Taxes: AOA79350
+Approx. Taxes: USD221.39
+Refundable: true
+
+Air Pricing Solutions Details 39:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 577
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 377
+From JNB
+To CPT
+Depart 2019-09-11T21:15:00.000+02:00
+Arrive 2019-09-11T23:25:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 372
+From CPT
+To JNB
+Depart 2019-09-15T19:55:00.000+02:00
+Arrive 2019-09-15T21:50:00.000+02:00
+Airline: DT
+Flight 576
+From JNB
+To LAD
+Depart 2019-09-16T06:50:00.000+02:00
+Arrive 2019-09-16T09:50:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAaievBAAAAA==
+Total Price: AOA178257
+Base Price: USD276.00
+Approx. Total Price: USD497.34
+Approx. Base Price: USD275.95
+Taxes: AOA79350
+Approx. Taxes: USD221.39
+Refundable: true
+
+Air Pricing Solutions Details 40:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 347
+From JNB
+To CPT
+Depart 2019-09-11T15:30:00.000+02:00
+Arrive 2019-09-11T17:40:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 326
+From CPT
+To JNB
+Depart 2019-09-15T11:25:00.000+02:00
+Arrive 2019-09-15T13:20:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAAsevBAAAAA==
+Total Price: AOA182557
+Base Price: USD348.00
+Approx. Total Price: USD509.34
+Approx. Base Price: USD347.94
+Taxes: AOA57848
+Approx. Taxes: USD161.40
+
+Air Pricing Solutions Details 41:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 357
+From JNB
+To CPT
+Depart 2019-09-11T17:05:00.000+02:00
+Arrive 2019-09-11T19:15:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 326
+From CPT
+To JNB
+Depart 2019-09-15T11:25:00.000+02:00
+Arrive 2019-09-15T13:20:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKANsevBAAAAA==
+Total Price: AOA182557
+Base Price: USD348.00
+Approx. Total Price: USD509.34
+Approx. Base Price: USD347.94
+Taxes: AOA57848
+Approx. Taxes: USD161.40
+
+Air Pricing Solutions Details 42:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 55
+From LAD
+To JNB
+Depart 2019-09-11T13:25:00.000+01:00
+Arrive 2019-09-11T17:45:00.000+02:00
+Airline: SA
+Flight 377
+From JNB
+To CPT
+Depart 2019-09-11T21:15:00.000+02:00
+Arrive 2019-09-11T23:25:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 326
+From CPT
+To JNB
+Depart 2019-09-15T11:25:00.000+02:00
+Arrive 2019-09-15T13:20:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAasevBAAAAA==
+Total Price: AOA182557
+Base Price: USD348.00
+Approx. Total Price: USD509.34
+Approx. Base Price: USD347.94
+Taxes: AOA57848
+Approx. Taxes: USD161.40
+
+Air Pricing Solutions Details 43:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 363
+From JNB
+To CPT
+Depart 2019-09-11T18:45:00.000+02:00
+Arrive 2019-09-11T20:55:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 326
+From CPT
+To JNB
+Depart 2019-09-15T11:25:00.000+02:00
+Arrive 2019-09-15T13:20:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAnsevBAAAAA==
+Total Price: AOA182557
+Base Price: USD348.00
+Approx. Total Price: USD509.34
+Approx. Base Price: USD347.94
+Taxes: AOA57848
+Approx. Taxes: USD161.40
+
+Air Pricing Solutions Details 44:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 347
+From JNB
+To CPT
+Depart 2019-09-11T15:30:00.000+02:00
+Arrive 2019-09-11T17:40:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 314
+From CPT
+To JNB
+Depart 2019-09-15T07:30:00.000+02:00
+Arrive 2019-09-15T09:25:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKA0sevBAAAAA==
+Total Price: AOA182557
+Base Price: USD348.00
+Approx. Total Price: USD509.34
+Approx. Base Price: USD347.94
+Taxes: AOA57848
+Approx. Taxes: USD161.40
+
+Air Pricing Solutions Details 45:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 357
+From JNB
+To CPT
+Depart 2019-09-11T17:05:00.000+02:00
+Arrive 2019-09-11T19:15:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 314
+From CPT
+To JNB
+Depart 2019-09-15T07:30:00.000+02:00
+Arrive 2019-09-15T09:25:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKABtevBAAAAA==
+Total Price: AOA182557
+Base Price: USD348.00
+Approx. Total Price: USD509.34
+Approx. Base Price: USD347.94
+Taxes: AOA57848
+Approx. Taxes: USD161.40
+
+Air Pricing Solutions Details 46:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 55
+From LAD
+To JNB
+Depart 2019-09-11T13:25:00.000+01:00
+Arrive 2019-09-11T17:45:00.000+02:00
+Airline: SA
+Flight 377
+From JNB
+To CPT
+Depart 2019-09-11T21:15:00.000+02:00
+Arrive 2019-09-11T23:25:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 314
+From CPT
+To JNB
+Depart 2019-09-15T07:30:00.000+02:00
+Arrive 2019-09-15T09:25:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAOtevBAAAAA==
+Total Price: AOA182557
+Base Price: USD348.00
+Approx. Total Price: USD509.34
+Approx. Base Price: USD347.94
+Taxes: AOA57848
+Approx. Taxes: USD161.40
+
+Air Pricing Solutions Details 47:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 363
+From JNB
+To CPT
+Depart 2019-09-11T18:45:00.000+02:00
+Arrive 2019-09-11T20:55:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 314
+From CPT
+To JNB
+Depart 2019-09-15T07:30:00.000+02:00
+Arrive 2019-09-15T09:25:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAbtevBAAAAA==
+Total Price: AOA182557
+Base Price: USD348.00
+Approx. Total Price: USD509.34
+Approx. Base Price: USD347.94
+Taxes: AOA57848
+Approx. Taxes: USD161.40
+
+Air Pricing Solutions Details 48:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 347
+From JNB
+To CPT
+Depart 2019-09-11T15:30:00.000+02:00
+Arrive 2019-09-11T17:40:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 308
+From CPT
+To JNB
+Depart 2019-09-15T06:20:00.000+02:00
+Arrive 2019-09-15T08:15:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAotevBAAAAA==
+Total Price: AOA182557
+Base Price: USD348.00
+Approx. Total Price: USD509.34
+Approx. Base Price: USD347.94
+Taxes: AOA57848
+Approx. Taxes: USD161.40
+
+Air Pricing Solutions Details 49:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 357
+From JNB
+To CPT
+Depart 2019-09-11T17:05:00.000+02:00
+Arrive 2019-09-11T19:15:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 308
+From CPT
+To JNB
+Depart 2019-09-15T06:20:00.000+02:00
+Arrive 2019-09-15T08:15:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKA1tevBAAAAA==
+Total Price: AOA182557
+Base Price: USD348.00
+Approx. Total Price: USD509.34
+Approx. Base Price: USD347.94
+Taxes: AOA57848
+Approx. Taxes: USD161.40
+
+Air Pricing Solutions Details 50:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 55
+From LAD
+To JNB
+Depart 2019-09-11T13:25:00.000+01:00
+Arrive 2019-09-11T17:45:00.000+02:00
+Airline: SA
+Flight 377
+From JNB
+To CPT
+Depart 2019-09-11T21:15:00.000+02:00
+Arrive 2019-09-11T23:25:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 308
+From CPT
+To JNB
+Depart 2019-09-15T06:20:00.000+02:00
+Arrive 2019-09-15T08:15:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKACuevBAAAAA==
+Total Price: AOA182557
+Base Price: USD348.00
+Approx. Total Price: USD509.34
+Approx. Base Price: USD347.94
+Taxes: AOA57848
+Approx. Taxes: USD161.40
+
+Air Pricing Solutions Details 51:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 363
+From JNB
+To CPT
+Depart 2019-09-11T18:45:00.000+02:00
+Arrive 2019-09-11T20:55:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 308
+From CPT
+To JNB
+Depart 2019-09-15T06:20:00.000+02:00
+Arrive 2019-09-15T08:15:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAPuevBAAAAA==
+Total Price: AOA182557
+Base Price: USD348.00
+Approx. Total Price: USD509.34
+Approx. Base Price: USD347.94
+Taxes: AOA57848
+Approx. Taxes: USD161.40
+
+Air Pricing Solutions Details 52:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 347
+From JNB
+To CPT
+Depart 2019-09-11T15:30:00.000+02:00
+Arrive 2019-09-11T17:40:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 302
+From CPT
+To JNB
+Depart 2019-09-15T06:00:00.000+02:00
+Arrive 2019-09-15T07:55:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAcuevBAAAAA==
+Total Price: AOA182557
+Base Price: USD348.00
+Approx. Total Price: USD509.34
+Approx. Base Price: USD347.94
+Taxes: AOA57848
+Approx. Taxes: USD161.40
+
+Air Pricing Solutions Details 53:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 357
+From JNB
+To CPT
+Depart 2019-09-11T17:05:00.000+02:00
+Arrive 2019-09-11T19:15:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 302
+From CPT
+To JNB
+Depart 2019-09-15T06:00:00.000+02:00
+Arrive 2019-09-15T07:55:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKApuevBAAAAA==
+Total Price: AOA182557
+Base Price: USD348.00
+Approx. Total Price: USD509.34
+Approx. Base Price: USD347.94
+Taxes: AOA57848
+Approx. Taxes: USD161.40
+
+Air Pricing Solutions Details 54:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 55
+From LAD
+To JNB
+Depart 2019-09-11T13:25:00.000+01:00
+Arrive 2019-09-11T17:45:00.000+02:00
+Airline: SA
+Flight 377
+From JNB
+To CPT
+Depart 2019-09-11T21:15:00.000+02:00
+Arrive 2019-09-11T23:25:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 302
+From CPT
+To JNB
+Depart 2019-09-15T06:00:00.000+02:00
+Arrive 2019-09-15T07:55:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKA2uevBAAAAA==
+Total Price: AOA182557
+Base Price: USD348.00
+Approx. Total Price: USD509.34
+Approx. Base Price: USD347.94
+Taxes: AOA57848
+Approx. Taxes: USD161.40
+
+Air Pricing Solutions Details 55:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 363
+From JNB
+To CPT
+Depart 2019-09-11T18:45:00.000+02:00
+Arrive 2019-09-11T20:55:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 302
+From CPT
+To JNB
+Depart 2019-09-15T06:00:00.000+02:00
+Arrive 2019-09-15T07:55:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKADvevBAAAAA==
+Total Price: AOA182557
+Base Price: USD348.00
+Approx. Total Price: USD509.34
+Approx. Base Price: USD347.94
+Taxes: AOA57848
+Approx. Taxes: USD161.40
+
+Air Pricing Solutions Details 56:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 347
+From JNB
+To CPT
+Depart 2019-09-11T15:30:00.000+02:00
+Arrive 2019-09-11T17:40:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 372
+From CPT
+To JNB
+Depart 2019-09-15T19:55:00.000+02:00
+Arrive 2019-09-15T21:50:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-16T16:35:00.000+02:00
+Arrive 2019-09-16T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAQvevBAAAAA==
+Total Price: AOA182557
+Base Price: USD348.00
+Approx. Total Price: USD509.34
+Approx. Base Price: USD347.94
+Taxes: AOA57848
+Approx. Taxes: USD161.40
+
+Air Pricing Solutions Details 57:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 357
+From JNB
+To CPT
+Depart 2019-09-11T17:05:00.000+02:00
+Arrive 2019-09-11T19:15:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 372
+From CPT
+To JNB
+Depart 2019-09-15T19:55:00.000+02:00
+Arrive 2019-09-15T21:50:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-16T16:35:00.000+02:00
+Arrive 2019-09-16T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAdvevBAAAAA==
+Total Price: AOA182557
+Base Price: USD348.00
+Approx. Total Price: USD509.34
+Approx. Base Price: USD347.94
+Taxes: AOA57848
+Approx. Taxes: USD161.40
+
+Air Pricing Solutions Details 58:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 55
+From LAD
+To JNB
+Depart 2019-09-11T13:25:00.000+01:00
+Arrive 2019-09-11T17:45:00.000+02:00
+Airline: SA
+Flight 377
+From JNB
+To CPT
+Depart 2019-09-11T21:15:00.000+02:00
+Arrive 2019-09-11T23:25:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 372
+From CPT
+To JNB
+Depart 2019-09-15T19:55:00.000+02:00
+Arrive 2019-09-15T21:50:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-16T16:35:00.000+02:00
+Arrive 2019-09-16T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAqvevBAAAAA==
+Total Price: AOA182557
+Base Price: USD348.00
+Approx. Total Price: USD509.34
+Approx. Base Price: USD347.94
+Taxes: AOA57848
+Approx. Taxes: USD161.40
+
+Air Pricing Solutions Details 59:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 363
+From JNB
+To CPT
+Depart 2019-09-11T18:45:00.000+02:00
+Arrive 2019-09-11T20:55:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 372
+From CPT
+To JNB
+Depart 2019-09-15T19:55:00.000+02:00
+Arrive 2019-09-15T21:50:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-16T16:35:00.000+02:00
+Arrive 2019-09-16T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAsmevBAAAAA==
+Total Price: AOA182557
+Base Price: USD348.00
+Approx. Total Price: USD509.34
+Approx. Base Price: USD347.94
+Taxes: AOA57848
+Approx. Taxes: USD161.40
+
+Air Pricing Solutions Details 60:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 5055
+From LAD
+To JNB
+Depart 2019-09-11T13:25:00.000+01:00
+Arrive 2019-09-11T17:45:00.000+02:00
+Airline: SA
+Flight 377
+From JNB
+To CPT
+Depart 2019-09-11T21:15:00.000+02:00
+Arrive 2019-09-11T23:25:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 314
+From CPT
+To JNB
+Depart 2019-09-15T07:30:00.000+02:00
+Arrive 2019-09-15T09:25:00.000+02:00
+Airline: DT
+Flight 578
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKA4vevBAAAAA==
+Total Price: AOA183274
+Base Price: USD290.00
+Approx. Total Price: USD511.34
+Approx. Base Price: USD289.95
+Taxes: AOA79350
+Approx. Taxes: USD221.39
+Refundable: true
+
+Air Pricing Solutions Details 61:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 5055
+From LAD
+To JNB
+Depart 2019-09-11T13:25:00.000+01:00
+Arrive 2019-09-11T17:45:00.000+02:00
+Airline: SA
+Flight 377
+From JNB
+To CPT
+Depart 2019-09-11T21:15:00.000+02:00
+Arrive 2019-09-11T23:25:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 308
+From CPT
+To JNB
+Depart 2019-09-15T06:20:00.000+02:00
+Arrive 2019-09-15T08:15:00.000+02:00
+Airline: DT
+Flight 578
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAFwevBAAAAA==
+Total Price: AOA183274
+Base Price: USD290.00
+Approx. Total Price: USD511.34
+Approx. Base Price: USD289.95
+Taxes: AOA79350
+Approx. Taxes: USD221.39
+Refundable: true
+
+Air Pricing Solutions Details 62:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 5055
+From LAD
+To JNB
+Depart 2019-09-11T13:25:00.000+01:00
+Arrive 2019-09-11T17:45:00.000+02:00
+Airline: SA
+Flight 377
+From JNB
+To CPT
+Depart 2019-09-11T21:15:00.000+02:00
+Arrive 2019-09-11T23:25:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 302
+From CPT
+To JNB
+Depart 2019-09-15T06:00:00.000+02:00
+Arrive 2019-09-15T07:55:00.000+02:00
+Airline: DT
+Flight 578
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKASwevBAAAAA==
+Total Price: AOA183274
+Base Price: USD290.00
+Approx. Total Price: USD511.34
+Approx. Base Price: USD289.95
+Taxes: AOA79350
+Approx. Taxes: USD221.39
+Refundable: true
+
+Air Pricing Solutions Details 63:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 5055
+From LAD
+To JNB
+Depart 2019-09-11T13:25:00.000+01:00
+Arrive 2019-09-11T17:45:00.000+02:00
+Airline: SA
+Flight 377
+From JNB
+To CPT
+Depart 2019-09-11T21:15:00.000+02:00
+Arrive 2019-09-11T23:25:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 372
+From CPT
+To JNB
+Depart 2019-09-15T19:55:00.000+02:00
+Arrive 2019-09-15T21:50:00.000+02:00
+Airline: DT
+Flight 576
+From JNB
+To LAD
+Depart 2019-09-16T06:50:00.000+02:00
+Arrive 2019-09-16T09:50:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAjievBAAAAA==
+Total Price: AOA183274
+Base Price: USD290.00
+Approx. Total Price: USD511.34
+Approx. Base Price: USD289.95
+Taxes: AOA79350
+Approx. Taxes: USD221.39
+Refundable: true
+
+Air Pricing Solutions Details 64:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 2021
+From JNB
+To CPT
+Depart 2019-09-11T18:25:00.000+02:00
+Arrive 2019-09-11T20:35:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 326
+From CPT
+To JNB
+Depart 2019-09-15T11:25:00.000+02:00
+Arrive 2019-09-15T13:20:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAgwevBAAAAA==
+Total Price: AOA189723
+Base Price: USD403.00
+Approx. Total Price: USD529.33
+Approx. Base Price: USD402.93
+Taxes: AOA45305
+Approx. Taxes: USD126.40
+
+Air Pricing Solutions Details 65:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 2021
+From JNB
+To CPT
+Depart 2019-09-11T18:25:00.000+02:00
+Arrive 2019-09-11T20:35:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 314
+From CPT
+To JNB
+Depart 2019-09-15T07:30:00.000+02:00
+Arrive 2019-09-15T09:25:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKA6wevBAAAAA==
+Total Price: AOA189723
+Base Price: USD403.00
+Approx. Total Price: USD529.33
+Approx. Base Price: USD402.93
+Taxes: AOA45305
+Approx. Taxes: USD126.40
+
+Air Pricing Solutions Details 66:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 2021
+From JNB
+To CPT
+Depart 2019-09-11T18:25:00.000+02:00
+Arrive 2019-09-11T20:35:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 308
+From CPT
+To JNB
+Depart 2019-09-15T06:20:00.000+02:00
+Arrive 2019-09-15T08:15:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAHxevBAAAAA==
+Total Price: AOA189723
+Base Price: USD403.00
+Approx. Total Price: USD529.33
+Approx. Base Price: USD402.93
+Taxes: AOA45305
+Approx. Taxes: USD126.40
+
+Air Pricing Solutions Details 67:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 2021
+From JNB
+To CPT
+Depart 2019-09-11T18:25:00.000+02:00
+Arrive 2019-09-11T20:35:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 302
+From CPT
+To JNB
+Depart 2019-09-15T06:00:00.000+02:00
+Arrive 2019-09-15T07:55:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAUxevBAAAAA==
+Total Price: AOA189723
+Base Price: USD403.00
+Approx. Total Price: USD529.33
+Approx. Base Price: USD402.93
+Taxes: AOA45305
+Approx. Taxes: USD126.40
+
+Air Pricing Solutions Details 68:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 2021
+From JNB
+To CPT
+Depart 2019-09-11T18:25:00.000+02:00
+Arrive 2019-09-11T20:35:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 372
+From CPT
+To JNB
+Depart 2019-09-15T19:55:00.000+02:00
+Arrive 2019-09-15T21:50:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-16T16:35:00.000+02:00
+Arrive 2019-09-16T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKApwevBAAAAA==
+Total Price: AOA189723
+Base Price: USD403.00
+Approx. Total Price: USD529.33
+Approx. Base Price: USD402.93
+Taxes: AOA45305
+Approx. Taxes: USD126.40
+
+Air Pricing Solutions Details 69:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 347
+From JNB
+To CPT
+Depart 2019-09-11T15:30:00.000+02:00
+Arrive 2019-09-11T17:40:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 2014
+From CPT
+To JNB
+Depart 2019-09-15T13:10:00.000+02:00
+Arrive 2019-09-15T15:05:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAixevBAAAAA==
+Total Price: AOA191157
+Base Price: USD407.00
+Approx. Total Price: USD533.33
+Approx. Base Price: USD406.93
+Taxes: AOA45305
+Approx. Taxes: USD126.40
+
+Air Pricing Solutions Details 70:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 357
+From JNB
+To CPT
+Depart 2019-09-11T17:05:00.000+02:00
+Arrive 2019-09-11T19:15:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 2014
+From CPT
+To JNB
+Depart 2019-09-15T13:10:00.000+02:00
+Arrive 2019-09-15T15:05:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAvxevBAAAAA==
+Total Price: AOA191157
+Base Price: USD407.00
+Approx. Total Price: USD533.33
+Approx. Base Price: USD406.93
+Taxes: AOA45305
+Approx. Taxes: USD126.40
+
+Air Pricing Solutions Details 71:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 55
+From LAD
+To JNB
+Depart 2019-09-11T13:25:00.000+01:00
+Arrive 2019-09-11T17:45:00.000+02:00
+Airline: SA
+Flight 377
+From JNB
+To CPT
+Depart 2019-09-11T21:15:00.000+02:00
+Arrive 2019-09-11T23:25:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 2014
+From CPT
+To JNB
+Depart 2019-09-15T13:10:00.000+02:00
+Arrive 2019-09-15T15:05:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKA8xevBAAAAA==
+Total Price: AOA191157
+Base Price: USD407.00
+Approx. Total Price: USD533.33
+Approx. Base Price: USD406.93
+Taxes: AOA45305
+Approx. Taxes: USD126.40
+
+Air Pricing Solutions Details 72:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 363
+From JNB
+To CPT
+Depart 2019-09-11T18:45:00.000+02:00
+Arrive 2019-09-11T20:55:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 2014
+From CPT
+To JNB
+Depart 2019-09-15T13:10:00.000+02:00
+Arrive 2019-09-15T15:05:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAJyevBAAAAA==
+Total Price: AOA191157
+Base Price: USD407.00
+Approx. Total Price: USD533.33
+Approx. Base Price: USD406.93
+Taxes: AOA45305
+Approx. Taxes: USD126.40
+
+Air Pricing Solutions Details 73:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 347
+From JNB
+To CPT
+Depart 2019-09-11T15:30:00.000+02:00
+Arrive 2019-09-11T17:40:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 2012
+From CPT
+To JNB
+Depart 2019-09-15T08:45:00.000+02:00
+Arrive 2019-09-15T10:40:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAWyevBAAAAA==
+Total Price: AOA191157
+Base Price: USD407.00
+Approx. Total Price: USD533.33
+Approx. Base Price: USD406.93
+Taxes: AOA45305
+Approx. Taxes: USD126.40
+
+Air Pricing Solutions Details 74:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 357
+From JNB
+To CPT
+Depart 2019-09-11T17:05:00.000+02:00
+Arrive 2019-09-11T19:15:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 2012
+From CPT
+To JNB
+Depart 2019-09-15T08:45:00.000+02:00
+Arrive 2019-09-15T10:40:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAjyevBAAAAA==
+Total Price: AOA191157
+Base Price: USD407.00
+Approx. Total Price: USD533.33
+Approx. Base Price: USD406.93
+Taxes: AOA45305
+Approx. Taxes: USD126.40
+
+Air Pricing Solutions Details 75:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 55
+From LAD
+To JNB
+Depart 2019-09-11T13:25:00.000+01:00
+Arrive 2019-09-11T17:45:00.000+02:00
+Airline: SA
+Flight 377
+From JNB
+To CPT
+Depart 2019-09-11T21:15:00.000+02:00
+Arrive 2019-09-11T23:25:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 2012
+From CPT
+To JNB
+Depart 2019-09-15T08:45:00.000+02:00
+Arrive 2019-09-15T10:40:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAwyevBAAAAA==
+Total Price: AOA191157
+Base Price: USD407.00
+Approx. Total Price: USD533.33
+Approx. Base Price: USD406.93
+Taxes: AOA45305
+Approx. Taxes: USD126.40
+
+Air Pricing Solutions Details 76:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 363
+From JNB
+To CPT
+Depart 2019-09-11T18:45:00.000+02:00
+Arrive 2019-09-11T20:55:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 2012
+From CPT
+To JNB
+Depart 2019-09-15T08:45:00.000+02:00
+Arrive 2019-09-15T10:40:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAhoevBAAAAA==
+Total Price: AOA191157
+Base Price: USD407.00
+Approx. Total Price: USD533.33
+Approx. Base Price: USD406.93
+Taxes: AOA45305
+Approx. Taxes: USD126.40
+
+Air Pricing Solutions Details 77:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7040
+From LAD
+To CPT
+Depart 2019-09-11T08:40:00.000+01:00
+Arrive 2019-09-11T13:40:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6414
+From CPT
+To JNB
+Depart 2019-09-15T12:20:00.000+02:00
+Arrive 2019-09-15T14:20:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAAzevBAAAAA==
+Total Price: AOA192446
+Base Price: USD361.00
+Approx. Total Price: USD536.92
+Approx. Base Price: USD360.93
+Taxes: AOA63079
+Approx. Taxes: USD175.99
+
+Air Pricing Solutions Details 78:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7040
+From LAD
+To CPT
+Depart 2019-09-11T08:40:00.000+01:00
+Arrive 2019-09-11T13:40:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6410
+From CPT
+To JNB
+Depart 2019-09-15T09:50:00.000+02:00
+Arrive 2019-09-15T11:50:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAOzevBAAAAA==
+Total Price: AOA192446
+Base Price: USD361.00
+Approx. Total Price: USD536.92
+Approx. Base Price: USD360.93
+Taxes: AOA63079
+Approx. Taxes: USD175.99
+
+Air Pricing Solutions Details 79:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7040
+From LAD
+To CPT
+Depart 2019-09-11T08:40:00.000+01:00
+Arrive 2019-09-11T13:40:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6406
+From CPT
+To JNB
+Depart 2019-09-15T09:00:00.000+02:00
+Arrive 2019-09-15T11:00:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAczevBAAAAA==
+Total Price: AOA192446
+Base Price: USD361.00
+Approx. Total Price: USD536.92
+Approx. Base Price: USD360.93
+Taxes: AOA63079
+Approx. Taxes: USD175.99
+
+Air Pricing Solutions Details 80:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7040
+From LAD
+To CPT
+Depart 2019-09-11T08:40:00.000+01:00
+Arrive 2019-09-11T13:40:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6428
+From CPT
+To JNB
+Depart 2019-09-15T07:30:00.000+02:00
+Arrive 2019-09-15T09:30:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAqzevBAAAAA==
+Total Price: AOA192446
+Base Price: USD361.00
+Approx. Total Price: USD536.92
+Approx. Base Price: USD360.93
+Taxes: AOA63079
+Approx. Taxes: USD175.99
+
+Air Pricing Solutions Details 81:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7040
+From LAD
+To CPT
+Depart 2019-09-11T08:40:00.000+01:00
+Arrive 2019-09-11T13:40:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6416
+From CPT
+To JNB
+Depart 2019-09-15T20:45:00.000+02:00
+Arrive 2019-09-15T22:45:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-16T16:35:00.000+02:00
+Arrive 2019-09-16T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAKjevBAAAAA==
+Total Price: AOA192446
+Base Price: USD361.00
+Approx. Total Price: USD536.92
+Approx. Base Price: USD360.93
+Taxes: AOA63079
+Approx. Taxes: USD175.99
+
+Air Pricing Solutions Details 82:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 55
+From LAD
+To JNB
+Depart 2019-09-11T13:25:00.000+01:00
+Arrive 2019-09-11T17:45:00.000+02:00
+Airline: BA
+Flight 6407
+From JNB
+To CPT
+Depart 2019-09-11T19:25:00.000+02:00
+Arrive 2019-09-11T21:35:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7039
+From CPT
+To LAD
+Depart 2019-09-15T16:20:00.000+02:00
+Arrive 2019-09-15T19:20:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKA5zevBAAAAA==
+Total Price: AOA192446
+Base Price: USD361.00
+Approx. Total Price: USD536.92
+Approx. Base Price: USD360.93
+Taxes: AOA63079
+Approx. Taxes: USD175.99
+
+Air Pricing Solutions Details 83:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 55
+From LAD
+To JNB
+Depart 2019-09-11T13:25:00.000+01:00
+Arrive 2019-09-11T17:45:00.000+02:00
+Airline: BA
+Flight 6403
+From JNB
+To CPT
+Depart 2019-09-11T19:50:00.000+02:00
+Arrive 2019-09-11T22:00:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7039
+From CPT
+To LAD
+Depart 2019-09-15T16:20:00.000+02:00
+Arrive 2019-09-15T19:20:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAR0evBAAAAA==
+Total Price: AOA192446
+Base Price: USD361.00
+Approx. Total Price: USD536.92
+Approx. Base Price: USD360.93
+Taxes: AOA63079
+Approx. Taxes: USD175.99
+
+Air Pricing Solutions Details 84:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6427
+From JNB
+To CPT
+Depart 2019-09-11T16:00:00.000+02:00
+Arrive 2019-09-11T18:10:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7039
+From CPT
+To LAD
+Depart 2019-09-15T16:20:00.000+02:00
+Arrive 2019-09-15T19:20:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAf0evBAAAAA==
+Total Price: AOA192446
+Base Price: USD361.00
+Approx. Total Price: USD536.92
+Approx. Base Price: USD360.93
+Taxes: AOA63079
+Approx. Taxes: USD175.99
+
+Air Pricing Solutions Details 85:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6429
+From JNB
+To CPT
+Depart 2019-09-11T17:00:00.000+02:00
+Arrive 2019-09-11T19:10:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7039
+From CPT
+To LAD
+Depart 2019-09-15T16:20:00.000+02:00
+Arrive 2019-09-15T19:20:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAt0evBAAAAA==
+Total Price: AOA192446
+Base Price: USD361.00
+Approx. Total Price: USD536.92
+Approx. Base Price: USD360.93
+Taxes: AOA63079
+Approx. Taxes: USD175.99
+
+Air Pricing Solutions Details 86:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6431
+From JNB
+To CPT
+Depart 2019-09-11T18:00:00.000+02:00
+Arrive 2019-09-11T20:10:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7039
+From CPT
+To LAD
+Depart 2019-09-15T16:20:00.000+02:00
+Arrive 2019-09-15T19:20:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKA70evBAAAAA==
+Total Price: AOA192446
+Base Price: USD361.00
+Approx. Total Price: USD536.92
+Approx. Base Price: USD360.93
+Taxes: AOA63079
+Approx. Taxes: USD175.99
+
+Air Pricing Solutions Details 87:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6407
+From JNB
+To CPT
+Depart 2019-09-11T19:25:00.000+02:00
+Arrive 2019-09-11T21:35:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7039
+From CPT
+To LAD
+Depart 2019-09-15T16:20:00.000+02:00
+Arrive 2019-09-15T19:20:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAH1evBAAAAA==
+Total Price: AOA192446
+Base Price: USD361.00
+Approx. Total Price: USD536.92
+Approx. Base Price: USD360.93
+Taxes: AOA63079
+Approx. Taxes: USD175.99
+
+Air Pricing Solutions Details 88:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6403
+From JNB
+To CPT
+Depart 2019-09-11T19:50:00.000+02:00
+Arrive 2019-09-11T22:00:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7039
+From CPT
+To LAD
+Depart 2019-09-15T16:20:00.000+02:00
+Arrive 2019-09-15T19:20:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAC0evBAAAAA==
+Total Price: AOA192446
+Base Price: USD361.00
+Approx. Total Price: USD536.92
+Approx. Base Price: USD360.93
+Taxes: AOA63079
+Approx. Taxes: USD175.99
+
+Air Pricing Solutions Details 89:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 2021
+From JNB
+To CPT
+Depart 2019-09-11T18:25:00.000+02:00
+Arrive 2019-09-11T20:35:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 2014
+From CPT
+To JNB
+Depart 2019-09-15T13:10:00.000+02:00
+Arrive 2019-09-15T15:05:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAU1evBAAAAA==
+Total Price: AOA198323
+Base Price: USD462.00
+Approx. Total Price: USD553.33
+Approx. Base Price: USD461.92
+Taxes: AOA32762
+Approx. Taxes: USD91.41
+
+Air Pricing Solutions Details 90:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 2021
+From JNB
+To CPT
+Depart 2019-09-11T18:25:00.000+02:00
+Arrive 2019-09-11T20:35:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 2012
+From CPT
+To JNB
+Depart 2019-09-15T08:45:00.000+02:00
+Arrive 2019-09-15T10:40:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKACoevBAAAAA==
+Total Price: AOA198323
+Base Price: USD462.00
+Approx. Total Price: USD553.33
+Approx. Base Price: USD461.92
+Taxes: AOA32762
+Approx. Taxes: USD91.41
+
+Air Pricing Solutions Details 91:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 347
+From JNB
+To CPT
+Depart 2019-09-11T15:30:00.000+02:00
+Arrive 2019-09-11T17:40:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6414
+From CPT
+To JNB
+Depart 2019-09-15T12:20:00.000+02:00
+Arrive 2019-09-15T14:20:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAh1evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 92:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 357
+From JNB
+To CPT
+Depart 2019-09-11T17:05:00.000+02:00
+Arrive 2019-09-11T19:15:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6414
+From CPT
+To JNB
+Depart 2019-09-15T12:20:00.000+02:00
+Arrive 2019-09-15T14:20:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAv1evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 93:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 55
+From LAD
+To JNB
+Depart 2019-09-11T13:25:00.000+01:00
+Arrive 2019-09-11T17:45:00.000+02:00
+Airline: SA
+Flight 377
+From JNB
+To CPT
+Depart 2019-09-11T21:15:00.000+02:00
+Arrive 2019-09-11T23:25:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6414
+From CPT
+To JNB
+Depart 2019-09-15T12:20:00.000+02:00
+Arrive 2019-09-15T14:20:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKA91evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 94:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 363
+From JNB
+To CPT
+Depart 2019-09-11T18:45:00.000+02:00
+Arrive 2019-09-11T20:55:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6414
+From CPT
+To JNB
+Depart 2019-09-15T12:20:00.000+02:00
+Arrive 2019-09-15T14:20:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAL2evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 95:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 347
+From JNB
+To CPT
+Depart 2019-09-11T15:30:00.000+02:00
+Arrive 2019-09-11T17:40:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6410
+From CPT
+To JNB
+Depart 2019-09-15T09:50:00.000+02:00
+Arrive 2019-09-15T11:50:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAZ2evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 96:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 357
+From JNB
+To CPT
+Depart 2019-09-11T17:05:00.000+02:00
+Arrive 2019-09-11T19:15:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6410
+From CPT
+To JNB
+Depart 2019-09-15T09:50:00.000+02:00
+Arrive 2019-09-15T11:50:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAn2evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 97:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 55
+From LAD
+To JNB
+Depart 2019-09-11T13:25:00.000+01:00
+Arrive 2019-09-11T17:45:00.000+02:00
+Airline: SA
+Flight 377
+From JNB
+To CPT
+Depart 2019-09-11T21:15:00.000+02:00
+Arrive 2019-09-11T23:25:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6410
+From CPT
+To JNB
+Depart 2019-09-15T09:50:00.000+02:00
+Arrive 2019-09-15T11:50:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKA12evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 98:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 363
+From JNB
+To CPT
+Depart 2019-09-11T18:45:00.000+02:00
+Arrive 2019-09-11T20:55:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6410
+From CPT
+To JNB
+Depart 2019-09-15T09:50:00.000+02:00
+Arrive 2019-09-15T11:50:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAD3evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 99:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 347
+From JNB
+To CPT
+Depart 2019-09-11T15:30:00.000+02:00
+Arrive 2019-09-11T17:40:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6406
+From CPT
+To JNB
+Depart 2019-09-15T09:00:00.000+02:00
+Arrive 2019-09-15T11:00:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAR3evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 100:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 357
+From JNB
+To CPT
+Depart 2019-09-11T17:05:00.000+02:00
+Arrive 2019-09-11T19:15:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6406
+From CPT
+To JNB
+Depart 2019-09-15T09:00:00.000+02:00
+Arrive 2019-09-15T11:00:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAf3evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 101:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 55
+From LAD
+To JNB
+Depart 2019-09-11T13:25:00.000+01:00
+Arrive 2019-09-11T17:45:00.000+02:00
+Airline: SA
+Flight 377
+From JNB
+To CPT
+Depart 2019-09-11T21:15:00.000+02:00
+Arrive 2019-09-11T23:25:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6406
+From CPT
+To JNB
+Depart 2019-09-15T09:00:00.000+02:00
+Arrive 2019-09-15T11:00:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAt3evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 102:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 363
+From JNB
+To CPT
+Depart 2019-09-11T18:45:00.000+02:00
+Arrive 2019-09-11T20:55:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6406
+From CPT
+To JNB
+Depart 2019-09-15T09:00:00.000+02:00
+Arrive 2019-09-15T11:00:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKA73evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 103:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 347
+From JNB
+To CPT
+Depart 2019-09-11T15:30:00.000+02:00
+Arrive 2019-09-11T17:40:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6428
+From CPT
+To JNB
+Depart 2019-09-15T07:30:00.000+02:00
+Arrive 2019-09-15T09:30:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAJ4evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 104:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 357
+From JNB
+To CPT
+Depart 2019-09-11T17:05:00.000+02:00
+Arrive 2019-09-11T19:15:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6428
+From CPT
+To JNB
+Depart 2019-09-15T07:30:00.000+02:00
+Arrive 2019-09-15T09:30:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAX4evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 105:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 55
+From LAD
+To JNB
+Depart 2019-09-11T13:25:00.000+01:00
+Arrive 2019-09-11T17:45:00.000+02:00
+Airline: SA
+Flight 377
+From JNB
+To CPT
+Depart 2019-09-11T21:15:00.000+02:00
+Arrive 2019-09-11T23:25:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6428
+From CPT
+To JNB
+Depart 2019-09-15T07:30:00.000+02:00
+Arrive 2019-09-15T09:30:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAl4evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 106:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 363
+From JNB
+To CPT
+Depart 2019-09-11T18:45:00.000+02:00
+Arrive 2019-09-11T20:55:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6428
+From CPT
+To JNB
+Depart 2019-09-15T07:30:00.000+02:00
+Arrive 2019-09-15T09:30:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAz4evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 107:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 347
+From JNB
+To CPT
+Depart 2019-09-11T15:30:00.000+02:00
+Arrive 2019-09-11T17:40:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6416
+From CPT
+To JNB
+Depart 2019-09-15T20:45:00.000+02:00
+Arrive 2019-09-15T22:45:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-16T16:35:00.000+02:00
+Arrive 2019-09-16T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAB5evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 108:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 357
+From JNB
+To CPT
+Depart 2019-09-11T17:05:00.000+02:00
+Arrive 2019-09-11T19:15:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6416
+From CPT
+To JNB
+Depart 2019-09-15T20:45:00.000+02:00
+Arrive 2019-09-15T22:45:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-16T16:35:00.000+02:00
+Arrive 2019-09-16T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAP5evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 109:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 55
+From LAD
+To JNB
+Depart 2019-09-11T13:25:00.000+01:00
+Arrive 2019-09-11T17:45:00.000+02:00
+Airline: SA
+Flight 377
+From JNB
+To CPT
+Depart 2019-09-11T21:15:00.000+02:00
+Arrive 2019-09-11T23:25:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6416
+From CPT
+To JNB
+Depart 2019-09-15T20:45:00.000+02:00
+Arrive 2019-09-15T22:45:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-16T16:35:00.000+02:00
+Arrive 2019-09-16T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAd5evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 110:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 363
+From JNB
+To CPT
+Depart 2019-09-11T18:45:00.000+02:00
+Arrive 2019-09-11T20:55:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6416
+From CPT
+To JNB
+Depart 2019-09-15T20:45:00.000+02:00
+Arrive 2019-09-15T22:45:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-16T16:35:00.000+02:00
+Arrive 2019-09-16T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKArjevBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 111:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 55
+From LAD
+To JNB
+Depart 2019-09-11T13:25:00.000+01:00
+Arrive 2019-09-11T17:45:00.000+02:00
+Airline: BA
+Flight 6407
+From JNB
+To CPT
+Depart 2019-09-11T19:25:00.000+02:00
+Arrive 2019-09-11T21:35:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 326
+From CPT
+To JNB
+Depart 2019-09-15T11:25:00.000+02:00
+Arrive 2019-09-15T13:20:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAs5evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 112:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 55
+From LAD
+To JNB
+Depart 2019-09-11T13:25:00.000+01:00
+Arrive 2019-09-11T17:45:00.000+02:00
+Airline: BA
+Flight 6403
+From JNB
+To CPT
+Depart 2019-09-11T19:50:00.000+02:00
+Arrive 2019-09-11T22:00:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 326
+From CPT
+To JNB
+Depart 2019-09-15T11:25:00.000+02:00
+Arrive 2019-09-15T13:20:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAI6evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 113:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6427
+From JNB
+To CPT
+Depart 2019-09-11T16:00:00.000+02:00
+Arrive 2019-09-11T18:10:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 326
+From CPT
+To JNB
+Depart 2019-09-15T11:25:00.000+02:00
+Arrive 2019-09-15T13:20:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAW6evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 114:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6429
+From JNB
+To CPT
+Depart 2019-09-11T17:00:00.000+02:00
+Arrive 2019-09-11T19:10:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 326
+From CPT
+To JNB
+Depart 2019-09-15T11:25:00.000+02:00
+Arrive 2019-09-15T13:20:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAk6evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 115:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6431
+From JNB
+To CPT
+Depart 2019-09-11T18:00:00.000+02:00
+Arrive 2019-09-11T20:10:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 326
+From CPT
+To JNB
+Depart 2019-09-15T11:25:00.000+02:00
+Arrive 2019-09-15T13:20:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAy6evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 116:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6407
+From JNB
+To CPT
+Depart 2019-09-11T19:25:00.000+02:00
+Arrive 2019-09-11T21:35:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 326
+From CPT
+To JNB
+Depart 2019-09-15T11:25:00.000+02:00
+Arrive 2019-09-15T13:20:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAA7evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 117:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6403
+From JNB
+To CPT
+Depart 2019-09-11T19:50:00.000+02:00
+Arrive 2019-09-11T22:00:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 326
+From CPT
+To JNB
+Depart 2019-09-15T11:25:00.000+02:00
+Arrive 2019-09-15T13:20:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAO7evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 118:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 55
+From LAD
+To JNB
+Depart 2019-09-11T13:25:00.000+01:00
+Arrive 2019-09-11T17:45:00.000+02:00
+Airline: BA
+Flight 6407
+From JNB
+To CPT
+Depart 2019-09-11T19:25:00.000+02:00
+Arrive 2019-09-11T21:35:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 314
+From CPT
+To JNB
+Depart 2019-09-15T07:30:00.000+02:00
+Arrive 2019-09-15T09:25:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAc7evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 119:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 55
+From LAD
+To JNB
+Depart 2019-09-11T13:25:00.000+01:00
+Arrive 2019-09-11T17:45:00.000+02:00
+Airline: BA
+Flight 6403
+From JNB
+To CPT
+Depart 2019-09-11T19:50:00.000+02:00
+Arrive 2019-09-11T22:00:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 314
+From CPT
+To JNB
+Depart 2019-09-15T07:30:00.000+02:00
+Arrive 2019-09-15T09:25:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAq7evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 120:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6427
+From JNB
+To CPT
+Depart 2019-09-11T16:00:00.000+02:00
+Arrive 2019-09-11T18:10:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 314
+From CPT
+To JNB
+Depart 2019-09-15T07:30:00.000+02:00
+Arrive 2019-09-15T09:25:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKA47evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 121:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6429
+From JNB
+To CPT
+Depart 2019-09-11T17:00:00.000+02:00
+Arrive 2019-09-11T19:10:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 314
+From CPT
+To JNB
+Depart 2019-09-15T07:30:00.000+02:00
+Arrive 2019-09-15T09:25:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAG8evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 122:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6431
+From JNB
+To CPT
+Depart 2019-09-11T18:00:00.000+02:00
+Arrive 2019-09-11T20:10:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 314
+From CPT
+To JNB
+Depart 2019-09-15T07:30:00.000+02:00
+Arrive 2019-09-15T09:25:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAU8evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 123:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6407
+From JNB
+To CPT
+Depart 2019-09-11T19:25:00.000+02:00
+Arrive 2019-09-11T21:35:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 314
+From CPT
+To JNB
+Depart 2019-09-15T07:30:00.000+02:00
+Arrive 2019-09-15T09:25:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAi8evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 124:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6403
+From JNB
+To CPT
+Depart 2019-09-11T19:50:00.000+02:00
+Arrive 2019-09-11T22:00:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 314
+From CPT
+To JNB
+Depart 2019-09-15T07:30:00.000+02:00
+Arrive 2019-09-15T09:25:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAw8evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 125:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 55
+From LAD
+To JNB
+Depart 2019-09-11T13:25:00.000+01:00
+Arrive 2019-09-11T17:45:00.000+02:00
+Airline: BA
+Flight 6407
+From JNB
+To CPT
+Depart 2019-09-11T19:25:00.000+02:00
+Arrive 2019-09-11T21:35:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 308
+From CPT
+To JNB
+Depart 2019-09-15T06:20:00.000+02:00
+Arrive 2019-09-15T08:15:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKA+8evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 126:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 55
+From LAD
+To JNB
+Depart 2019-09-11T13:25:00.000+01:00
+Arrive 2019-09-11T17:45:00.000+02:00
+Airline: BA
+Flight 6403
+From JNB
+To CPT
+Depart 2019-09-11T19:50:00.000+02:00
+Arrive 2019-09-11T22:00:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 308
+From CPT
+To JNB
+Depart 2019-09-15T06:20:00.000+02:00
+Arrive 2019-09-15T08:15:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAM9evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 127:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6427
+From JNB
+To CPT
+Depart 2019-09-11T16:00:00.000+02:00
+Arrive 2019-09-11T18:10:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 308
+From CPT
+To JNB
+Depart 2019-09-15T06:20:00.000+02:00
+Arrive 2019-09-15T08:15:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAa9evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 128:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6429
+From JNB
+To CPT
+Depart 2019-09-11T17:00:00.000+02:00
+Arrive 2019-09-11T19:10:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 308
+From CPT
+To JNB
+Depart 2019-09-15T06:20:00.000+02:00
+Arrive 2019-09-15T08:15:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAo9evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 129:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6431
+From JNB
+To CPT
+Depart 2019-09-11T18:00:00.000+02:00
+Arrive 2019-09-11T20:10:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 308
+From CPT
+To JNB
+Depart 2019-09-15T06:20:00.000+02:00
+Arrive 2019-09-15T08:15:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKA29evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 130:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6407
+From JNB
+To CPT
+Depart 2019-09-11T19:25:00.000+02:00
+Arrive 2019-09-11T21:35:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 308
+From CPT
+To JNB
+Depart 2019-09-15T06:20:00.000+02:00
+Arrive 2019-09-15T08:15:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAE+evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 131:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6403
+From JNB
+To CPT
+Depart 2019-09-11T19:50:00.000+02:00
+Arrive 2019-09-11T22:00:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 308
+From CPT
+To JNB
+Depart 2019-09-15T06:20:00.000+02:00
+Arrive 2019-09-15T08:15:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAS+evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 132:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 55
+From LAD
+To JNB
+Depart 2019-09-11T13:25:00.000+01:00
+Arrive 2019-09-11T17:45:00.000+02:00
+Airline: BA
+Flight 6407
+From JNB
+To CPT
+Depart 2019-09-11T19:25:00.000+02:00
+Arrive 2019-09-11T21:35:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 302
+From CPT
+To JNB
+Depart 2019-09-15T06:00:00.000+02:00
+Arrive 2019-09-15T07:55:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAg+evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 133:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 55
+From LAD
+To JNB
+Depart 2019-09-11T13:25:00.000+01:00
+Arrive 2019-09-11T17:45:00.000+02:00
+Airline: BA
+Flight 6403
+From JNB
+To CPT
+Depart 2019-09-11T19:50:00.000+02:00
+Arrive 2019-09-11T22:00:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 302
+From CPT
+To JNB
+Depart 2019-09-15T06:00:00.000+02:00
+Arrive 2019-09-15T07:55:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAu+evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 134:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6427
+From JNB
+To CPT
+Depart 2019-09-11T16:00:00.000+02:00
+Arrive 2019-09-11T18:10:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 302
+From CPT
+To JNB
+Depart 2019-09-15T06:00:00.000+02:00
+Arrive 2019-09-15T07:55:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKA8+evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 135:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6429
+From JNB
+To CPT
+Depart 2019-09-11T17:00:00.000+02:00
+Arrive 2019-09-11T19:10:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 302
+From CPT
+To JNB
+Depart 2019-09-15T06:00:00.000+02:00
+Arrive 2019-09-15T07:55:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAK/evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 136:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6431
+From JNB
+To CPT
+Depart 2019-09-11T18:00:00.000+02:00
+Arrive 2019-09-11T20:10:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 302
+From CPT
+To JNB
+Depart 2019-09-15T06:00:00.000+02:00
+Arrive 2019-09-15T07:55:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAY/evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 137:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6407
+From JNB
+To CPT
+Depart 2019-09-11T19:25:00.000+02:00
+Arrive 2019-09-11T21:35:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 302
+From CPT
+To JNB
+Depart 2019-09-15T06:00:00.000+02:00
+Arrive 2019-09-15T07:55:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAm/evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 138:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6403
+From JNB
+To CPT
+Depart 2019-09-11T19:50:00.000+02:00
+Arrive 2019-09-11T22:00:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 302
+From CPT
+To JNB
+Depart 2019-09-15T06:00:00.000+02:00
+Arrive 2019-09-15T07:55:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKA0/evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 139:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 55
+From LAD
+To JNB
+Depart 2019-09-11T13:25:00.000+01:00
+Arrive 2019-09-11T17:45:00.000+02:00
+Airline: BA
+Flight 6407
+From JNB
+To CPT
+Depart 2019-09-11T19:25:00.000+02:00
+Arrive 2019-09-11T21:35:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 372
+From CPT
+To JNB
+Depart 2019-09-15T19:55:00.000+02:00
+Arrive 2019-09-15T21:50:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-16T16:35:00.000+02:00
+Arrive 2019-09-16T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKACAfvBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 140:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 55
+From LAD
+To JNB
+Depart 2019-09-11T13:25:00.000+01:00
+Arrive 2019-09-11T17:45:00.000+02:00
+Airline: BA
+Flight 6403
+From JNB
+To CPT
+Depart 2019-09-11T19:50:00.000+02:00
+Arrive 2019-09-11T22:00:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 372
+From CPT
+To JNB
+Depart 2019-09-15T19:55:00.000+02:00
+Arrive 2019-09-15T21:50:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-16T16:35:00.000+02:00
+Arrive 2019-09-16T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAQAfvBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 141:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6427
+From JNB
+To CPT
+Depart 2019-09-11T16:00:00.000+02:00
+Arrive 2019-09-11T18:10:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 372
+From CPT
+To JNB
+Depart 2019-09-15T19:55:00.000+02:00
+Arrive 2019-09-15T21:50:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-16T16:35:00.000+02:00
+Arrive 2019-09-16T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAeAfvBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 142:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6429
+From JNB
+To CPT
+Depart 2019-09-11T17:00:00.000+02:00
+Arrive 2019-09-11T19:10:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 372
+From CPT
+To JNB
+Depart 2019-09-15T19:55:00.000+02:00
+Arrive 2019-09-15T21:50:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-16T16:35:00.000+02:00
+Arrive 2019-09-16T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAsAfvBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 143:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6431
+From JNB
+To CPT
+Depart 2019-09-11T18:00:00.000+02:00
+Arrive 2019-09-11T20:10:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 372
+From CPT
+To JNB
+Depart 2019-09-15T19:55:00.000+02:00
+Arrive 2019-09-15T21:50:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-16T16:35:00.000+02:00
+Arrive 2019-09-16T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKA6AfvBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 144:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6407
+From JNB
+To CPT
+Depart 2019-09-11T19:25:00.000+02:00
+Arrive 2019-09-11T21:35:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 372
+From CPT
+To JNB
+Depart 2019-09-15T19:55:00.000+02:00
+Arrive 2019-09-15T21:50:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-16T16:35:00.000+02:00
+Arrive 2019-09-16T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAIBfvBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 145:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6403
+From JNB
+To CPT
+Depart 2019-09-11T19:50:00.000+02:00
+Arrive 2019-09-11T22:00:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 372
+From CPT
+To JNB
+Depart 2019-09-15T19:55:00.000+02:00
+Arrive 2019-09-15T21:50:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-16T16:35:00.000+02:00
+Arrive 2019-09-16T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKA25evBAAAAA==
+Total Price: AOA221259
+Base Price: USD397.00
+Approx. Total Price: USD617.31
+Approx. Base Price: USD396.93
+Taxes: AOA78991
+Approx. Taxes: USD220.38
+
+Air Pricing Solutions Details 146:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 55
+From LAD
+To JNB
+Depart 2019-09-11T13:25:00.000+01:00
+Arrive 2019-09-11T17:45:00.000+02:00
+Airline: BA
+Flight 6407
+From JNB
+To CPT
+Depart 2019-09-11T19:25:00.000+02:00
+Arrive 2019-09-11T21:35:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6414
+From CPT
+To JNB
+Depart 2019-09-15T12:20:00.000+02:00
+Arrive 2019-09-15T14:20:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAXBfvBAAAAA==
+Total Price: AOA259603
+Base Price: USD445.00
+Approx. Total Price: USD724.29
+Approx. Base Price: USD444.92
+Taxes: AOA100134
+Approx. Taxes: USD279.37
+
+Air Pricing Solutions Details 147:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 55
+From LAD
+To JNB
+Depart 2019-09-11T13:25:00.000+01:00
+Arrive 2019-09-11T17:45:00.000+02:00
+Airline: BA
+Flight 6403
+From JNB
+To CPT
+Depart 2019-09-11T19:50:00.000+02:00
+Arrive 2019-09-11T22:00:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6414
+From CPT
+To JNB
+Depart 2019-09-15T12:20:00.000+02:00
+Arrive 2019-09-15T14:20:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAkBfvBAAAAA==
+Total Price: AOA259603
+Base Price: USD445.00
+Approx. Total Price: USD724.29
+Approx. Base Price: USD444.92
+Taxes: AOA100134
+Approx. Taxes: USD279.37
+
+Air Pricing Solutions Details 148:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6427
+From JNB
+To CPT
+Depart 2019-09-11T16:00:00.000+02:00
+Arrive 2019-09-11T18:10:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6414
+From CPT
+To JNB
+Depart 2019-09-15T12:20:00.000+02:00
+Arrive 2019-09-15T14:20:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAxBfvBAAAAA==
+Total Price: AOA259603
+Base Price: USD445.00
+Approx. Total Price: USD724.29
+Approx. Base Price: USD444.92
+Taxes: AOA100134
+Approx. Taxes: USD279.37
+
+Air Pricing Solutions Details 149:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6429
+From JNB
+To CPT
+Depart 2019-09-11T17:00:00.000+02:00
+Arrive 2019-09-11T19:10:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6414
+From CPT
+To JNB
+Depart 2019-09-15T12:20:00.000+02:00
+Arrive 2019-09-15T14:20:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKA+BfvBAAAAA==
+Total Price: AOA259603
+Base Price: USD445.00
+Approx. Total Price: USD724.29
+Approx. Base Price: USD444.92
+Taxes: AOA100134
+Approx. Taxes: USD279.37
+
+Air Pricing Solutions Details 150:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6431
+From JNB
+To CPT
+Depart 2019-09-11T18:00:00.000+02:00
+Arrive 2019-09-11T20:10:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6414
+From CPT
+To JNB
+Depart 2019-09-15T12:20:00.000+02:00
+Arrive 2019-09-15T14:20:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKALCfvBAAAAA==
+Total Price: AOA259603
+Base Price: USD445.00
+Approx. Total Price: USD724.29
+Approx. Base Price: USD444.92
+Taxes: AOA100134
+Approx. Taxes: USD279.37
+
+Air Pricing Solutions Details 151:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6407
+From JNB
+To CPT
+Depart 2019-09-11T19:25:00.000+02:00
+Arrive 2019-09-11T21:35:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6414
+From CPT
+To JNB
+Depart 2019-09-15T12:20:00.000+02:00
+Arrive 2019-09-15T14:20:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAYCfvBAAAAA==
+Total Price: AOA259603
+Base Price: USD445.00
+Approx. Total Price: USD724.29
+Approx. Base Price: USD444.92
+Taxes: AOA100134
+Approx. Taxes: USD279.37
+
+Air Pricing Solutions Details 152:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6403
+From JNB
+To CPT
+Depart 2019-09-11T19:50:00.000+02:00
+Arrive 2019-09-11T22:00:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6414
+From CPT
+To JNB
+Depart 2019-09-15T12:20:00.000+02:00
+Arrive 2019-09-15T14:20:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAlCfvBAAAAA==
+Total Price: AOA259603
+Base Price: USD445.00
+Approx. Total Price: USD724.29
+Approx. Base Price: USD444.92
+Taxes: AOA100134
+Approx. Taxes: USD279.37
+
+Air Pricing Solutions Details 153:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 55
+From LAD
+To JNB
+Depart 2019-09-11T13:25:00.000+01:00
+Arrive 2019-09-11T17:45:00.000+02:00
+Airline: BA
+Flight 6407
+From JNB
+To CPT
+Depart 2019-09-11T19:25:00.000+02:00
+Arrive 2019-09-11T21:35:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6410
+From CPT
+To JNB
+Depart 2019-09-15T09:50:00.000+02:00
+Arrive 2019-09-15T11:50:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAyCfvBAAAAA==
+Total Price: AOA259603
+Base Price: USD445.00
+Approx. Total Price: USD724.29
+Approx. Base Price: USD444.92
+Taxes: AOA100134
+Approx. Taxes: USD279.37
+
+Air Pricing Solutions Details 154:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 55
+From LAD
+To JNB
+Depart 2019-09-11T13:25:00.000+01:00
+Arrive 2019-09-11T17:45:00.000+02:00
+Airline: BA
+Flight 6403
+From JNB
+To CPT
+Depart 2019-09-11T19:50:00.000+02:00
+Arrive 2019-09-11T22:00:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6410
+From CPT
+To JNB
+Depart 2019-09-15T09:50:00.000+02:00
+Arrive 2019-09-15T11:50:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKA/CfvBAAAAA==
+Total Price: AOA259603
+Base Price: USD445.00
+Approx. Total Price: USD724.29
+Approx. Base Price: USD444.92
+Taxes: AOA100134
+Approx. Taxes: USD279.37
+
+Air Pricing Solutions Details 155:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6427
+From JNB
+To CPT
+Depart 2019-09-11T16:00:00.000+02:00
+Arrive 2019-09-11T18:10:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6410
+From CPT
+To JNB
+Depart 2019-09-15T09:50:00.000+02:00
+Arrive 2019-09-15T11:50:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAMDfvBAAAAA==
+Total Price: AOA259603
+Base Price: USD445.00
+Approx. Total Price: USD724.29
+Approx. Base Price: USD444.92
+Taxes: AOA100134
+Approx. Taxes: USD279.37
+
+Air Pricing Solutions Details 156:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6429
+From JNB
+To CPT
+Depart 2019-09-11T17:00:00.000+02:00
+Arrive 2019-09-11T19:10:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6410
+From CPT
+To JNB
+Depart 2019-09-15T09:50:00.000+02:00
+Arrive 2019-09-15T11:50:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAZDfvBAAAAA==
+Total Price: AOA259603
+Base Price: USD445.00
+Approx. Total Price: USD724.29
+Approx. Base Price: USD444.92
+Taxes: AOA100134
+Approx. Taxes: USD279.37
+
+Air Pricing Solutions Details 157:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6431
+From JNB
+To CPT
+Depart 2019-09-11T18:00:00.000+02:00
+Arrive 2019-09-11T20:10:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6410
+From CPT
+To JNB
+Depart 2019-09-15T09:50:00.000+02:00
+Arrive 2019-09-15T11:50:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAmDfvBAAAAA==
+Total Price: AOA259603
+Base Price: USD445.00
+Approx. Total Price: USD724.29
+Approx. Base Price: USD444.92
+Taxes: AOA100134
+Approx. Taxes: USD279.37
+
+Air Pricing Solutions Details 158:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6407
+From JNB
+To CPT
+Depart 2019-09-11T19:25:00.000+02:00
+Arrive 2019-09-11T21:35:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6410
+From CPT
+To JNB
+Depart 2019-09-15T09:50:00.000+02:00
+Arrive 2019-09-15T11:50:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAzDfvBAAAAA==
+Total Price: AOA259603
+Base Price: USD445.00
+Approx. Total Price: USD724.29
+Approx. Base Price: USD444.92
+Taxes: AOA100134
+Approx. Taxes: USD279.37
+
+Air Pricing Solutions Details 159:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6403
+From JNB
+To CPT
+Depart 2019-09-11T19:50:00.000+02:00
+Arrive 2019-09-11T22:00:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6410
+From CPT
+To JNB
+Depart 2019-09-15T09:50:00.000+02:00
+Arrive 2019-09-15T11:50:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAAEfvBAAAAA==
+Total Price: AOA259603
+Base Price: USD445.00
+Approx. Total Price: USD724.29
+Approx. Base Price: USD444.92
+Taxes: AOA100134
+Approx. Taxes: USD279.37
+
+Air Pricing Solutions Details 160:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 55
+From LAD
+To JNB
+Depart 2019-09-11T13:25:00.000+01:00
+Arrive 2019-09-11T17:45:00.000+02:00
+Airline: BA
+Flight 6407
+From JNB
+To CPT
+Depart 2019-09-11T19:25:00.000+02:00
+Arrive 2019-09-11T21:35:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6406
+From CPT
+To JNB
+Depart 2019-09-15T09:00:00.000+02:00
+Arrive 2019-09-15T11:00:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKANEfvBAAAAA==
+Total Price: AOA259603
+Base Price: USD445.00
+Approx. Total Price: USD724.29
+Approx. Base Price: USD444.92
+Taxes: AOA100134
+Approx. Taxes: USD279.37
+
+Air Pricing Solutions Details 161:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 55
+From LAD
+To JNB
+Depart 2019-09-11T13:25:00.000+01:00
+Arrive 2019-09-11T17:45:00.000+02:00
+Airline: BA
+Flight 6403
+From JNB
+To CPT
+Depart 2019-09-11T19:50:00.000+02:00
+Arrive 2019-09-11T22:00:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6406
+From CPT
+To JNB
+Depart 2019-09-15T09:00:00.000+02:00
+Arrive 2019-09-15T11:00:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAaEfvBAAAAA==
+Total Price: AOA259603
+Base Price: USD445.00
+Approx. Total Price: USD724.29
+Approx. Base Price: USD444.92
+Taxes: AOA100134
+Approx. Taxes: USD279.37
+
+Air Pricing Solutions Details 162:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6427
+From JNB
+To CPT
+Depart 2019-09-11T16:00:00.000+02:00
+Arrive 2019-09-11T18:10:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6406
+From CPT
+To JNB
+Depart 2019-09-15T09:00:00.000+02:00
+Arrive 2019-09-15T11:00:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAnEfvBAAAAA==
+Total Price: AOA259603
+Base Price: USD445.00
+Approx. Total Price: USD724.29
+Approx. Base Price: USD444.92
+Taxes: AOA100134
+Approx. Taxes: USD279.37
+
+Air Pricing Solutions Details 163:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6429
+From JNB
+To CPT
+Depart 2019-09-11T17:00:00.000+02:00
+Arrive 2019-09-11T19:10:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6406
+From CPT
+To JNB
+Depart 2019-09-15T09:00:00.000+02:00
+Arrive 2019-09-15T11:00:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKA0EfvBAAAAA==
+Total Price: AOA259603
+Base Price: USD445.00
+Approx. Total Price: USD724.29
+Approx. Base Price: USD444.92
+Taxes: AOA100134
+Approx. Taxes: USD279.37
+
+Air Pricing Solutions Details 164:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6431
+From JNB
+To CPT
+Depart 2019-09-11T18:00:00.000+02:00
+Arrive 2019-09-11T20:10:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6406
+From CPT
+To JNB
+Depart 2019-09-15T09:00:00.000+02:00
+Arrive 2019-09-15T11:00:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKABFfvBAAAAA==
+Total Price: AOA259603
+Base Price: USD445.00
+Approx. Total Price: USD724.29
+Approx. Base Price: USD444.92
+Taxes: AOA100134
+Approx. Taxes: USD279.37
+
+Air Pricing Solutions Details 165:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6407
+From JNB
+To CPT
+Depart 2019-09-11T19:25:00.000+02:00
+Arrive 2019-09-11T21:35:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6406
+From CPT
+To JNB
+Depart 2019-09-15T09:00:00.000+02:00
+Arrive 2019-09-15T11:00:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAOFfvBAAAAA==
+Total Price: AOA259603
+Base Price: USD445.00
+Approx. Total Price: USD724.29
+Approx. Base Price: USD444.92
+Taxes: AOA100134
+Approx. Taxes: USD279.37
+
+Air Pricing Solutions Details 166:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6403
+From JNB
+To CPT
+Depart 2019-09-11T19:50:00.000+02:00
+Arrive 2019-09-11T22:00:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6406
+From CPT
+To JNB
+Depart 2019-09-15T09:00:00.000+02:00
+Arrive 2019-09-15T11:00:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAbFfvBAAAAA==
+Total Price: AOA259603
+Base Price: USD445.00
+Approx. Total Price: USD724.29
+Approx. Base Price: USD444.92
+Taxes: AOA100134
+Approx. Taxes: USD279.37
+
+Air Pricing Solutions Details 167:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 55
+From LAD
+To JNB
+Depart 2019-09-11T13:25:00.000+01:00
+Arrive 2019-09-11T17:45:00.000+02:00
+Airline: BA
+Flight 6407
+From JNB
+To CPT
+Depart 2019-09-11T19:25:00.000+02:00
+Arrive 2019-09-11T21:35:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6428
+From CPT
+To JNB
+Depart 2019-09-15T07:30:00.000+02:00
+Arrive 2019-09-15T09:30:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAoFfvBAAAAA==
+Total Price: AOA259603
+Base Price: USD445.00
+Approx. Total Price: USD724.29
+Approx. Base Price: USD444.92
+Taxes: AOA100134
+Approx. Taxes: USD279.37
+
+Air Pricing Solutions Details 168:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 55
+From LAD
+To JNB
+Depart 2019-09-11T13:25:00.000+01:00
+Arrive 2019-09-11T17:45:00.000+02:00
+Airline: BA
+Flight 6403
+From JNB
+To CPT
+Depart 2019-09-11T19:50:00.000+02:00
+Arrive 2019-09-11T22:00:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6428
+From CPT
+To JNB
+Depart 2019-09-15T07:30:00.000+02:00
+Arrive 2019-09-15T09:30:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKA1FfvBAAAAA==
+Total Price: AOA259603
+Base Price: USD445.00
+Approx. Total Price: USD724.29
+Approx. Base Price: USD444.92
+Taxes: AOA100134
+Approx. Taxes: USD279.37
+
+Air Pricing Solutions Details 169:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6427
+From JNB
+To CPT
+Depart 2019-09-11T16:00:00.000+02:00
+Arrive 2019-09-11T18:10:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6428
+From CPT
+To JNB
+Depart 2019-09-15T07:30:00.000+02:00
+Arrive 2019-09-15T09:30:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKACGfvBAAAAA==
+Total Price: AOA259603
+Base Price: USD445.00
+Approx. Total Price: USD724.29
+Approx. Base Price: USD444.92
+Taxes: AOA100134
+Approx. Taxes: USD279.37
+
+Air Pricing Solutions Details 170:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6429
+From JNB
+To CPT
+Depart 2019-09-11T17:00:00.000+02:00
+Arrive 2019-09-11T19:10:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6428
+From CPT
+To JNB
+Depart 2019-09-15T07:30:00.000+02:00
+Arrive 2019-09-15T09:30:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAPGfvBAAAAA==
+Total Price: AOA259603
+Base Price: USD445.00
+Approx. Total Price: USD724.29
+Approx. Base Price: USD444.92
+Taxes: AOA100134
+Approx. Taxes: USD279.37
+
+Air Pricing Solutions Details 171:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6431
+From JNB
+To CPT
+Depart 2019-09-11T18:00:00.000+02:00
+Arrive 2019-09-11T20:10:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6428
+From CPT
+To JNB
+Depart 2019-09-15T07:30:00.000+02:00
+Arrive 2019-09-15T09:30:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAcGfvBAAAAA==
+Total Price: AOA259603
+Base Price: USD445.00
+Approx. Total Price: USD724.29
+Approx. Base Price: USD444.92
+Taxes: AOA100134
+Approx. Taxes: USD279.37
+
+Air Pricing Solutions Details 172:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6407
+From JNB
+To CPT
+Depart 2019-09-11T19:25:00.000+02:00
+Arrive 2019-09-11T21:35:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6428
+From CPT
+To JNB
+Depart 2019-09-15T07:30:00.000+02:00
+Arrive 2019-09-15T09:30:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKApGfvBAAAAA==
+Total Price: AOA259603
+Base Price: USD445.00
+Approx. Total Price: USD724.29
+Approx. Base Price: USD444.92
+Taxes: AOA100134
+Approx. Taxes: USD279.37
+
+Air Pricing Solutions Details 173:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6403
+From JNB
+To CPT
+Depart 2019-09-11T19:50:00.000+02:00
+Arrive 2019-09-11T22:00:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6428
+From CPT
+To JNB
+Depart 2019-09-15T07:30:00.000+02:00
+Arrive 2019-09-15T09:30:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKA2GfvBAAAAA==
+Total Price: AOA259603
+Base Price: USD445.00
+Approx. Total Price: USD724.29
+Approx. Base Price: USD444.92
+Taxes: AOA100134
+Approx. Taxes: USD279.37
+
+Air Pricing Solutions Details 174:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 55
+From LAD
+To JNB
+Depart 2019-09-11T13:25:00.000+01:00
+Arrive 2019-09-11T17:45:00.000+02:00
+Airline: BA
+Flight 6407
+From JNB
+To CPT
+Depart 2019-09-11T19:25:00.000+02:00
+Arrive 2019-09-11T21:35:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6416
+From CPT
+To JNB
+Depart 2019-09-15T20:45:00.000+02:00
+Arrive 2019-09-15T22:45:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-16T16:35:00.000+02:00
+Arrive 2019-09-16T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKADHfvBAAAAA==
+Total Price: AOA259603
+Base Price: USD445.00
+Approx. Total Price: USD724.29
+Approx. Base Price: USD444.92
+Taxes: AOA100134
+Approx. Taxes: USD279.37
+
+Air Pricing Solutions Details 175:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 55
+From LAD
+To JNB
+Depart 2019-09-11T13:25:00.000+01:00
+Arrive 2019-09-11T17:45:00.000+02:00
+Airline: BA
+Flight 6403
+From JNB
+To CPT
+Depart 2019-09-11T19:50:00.000+02:00
+Arrive 2019-09-11T22:00:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6416
+From CPT
+To JNB
+Depart 2019-09-15T20:45:00.000+02:00
+Arrive 2019-09-15T22:45:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-16T16:35:00.000+02:00
+Arrive 2019-09-16T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAQHfvBAAAAA==
+Total Price: AOA259603
+Base Price: USD445.00
+Approx. Total Price: USD724.29
+Approx. Base Price: USD444.92
+Taxes: AOA100134
+Approx. Taxes: USD279.37
+
+Air Pricing Solutions Details 176:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6427
+From JNB
+To CPT
+Depart 2019-09-11T16:00:00.000+02:00
+Arrive 2019-09-11T18:10:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6416
+From CPT
+To JNB
+Depart 2019-09-15T20:45:00.000+02:00
+Arrive 2019-09-15T22:45:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-16T16:35:00.000+02:00
+Arrive 2019-09-16T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAdHfvBAAAAA==
+Total Price: AOA259603
+Base Price: USD445.00
+Approx. Total Price: USD724.29
+Approx. Base Price: USD444.92
+Taxes: AOA100134
+Approx. Taxes: USD279.37
+
+Air Pricing Solutions Details 177:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6429
+From JNB
+To CPT
+Depart 2019-09-11T17:00:00.000+02:00
+Arrive 2019-09-11T19:10:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6416
+From CPT
+To JNB
+Depart 2019-09-15T20:45:00.000+02:00
+Arrive 2019-09-15T22:45:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-16T16:35:00.000+02:00
+Arrive 2019-09-16T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAqHfvBAAAAA==
+Total Price: AOA259603
+Base Price: USD445.00
+Approx. Total Price: USD724.29
+Approx. Base Price: USD444.92
+Taxes: AOA100134
+Approx. Taxes: USD279.37
+
+Air Pricing Solutions Details 178:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6431
+From JNB
+To CPT
+Depart 2019-09-11T18:00:00.000+02:00
+Arrive 2019-09-11T20:10:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6416
+From CPT
+To JNB
+Depart 2019-09-15T20:45:00.000+02:00
+Arrive 2019-09-15T22:45:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-16T16:35:00.000+02:00
+Arrive 2019-09-16T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKA3HfvBAAAAA==
+Total Price: AOA259603
+Base Price: USD445.00
+Approx. Total Price: USD724.29
+Approx. Base Price: USD444.92
+Taxes: AOA100134
+Approx. Taxes: USD279.37
+
+Air Pricing Solutions Details 179:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6407
+From JNB
+To CPT
+Depart 2019-09-11T19:25:00.000+02:00
+Arrive 2019-09-11T21:35:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6416
+From CPT
+To JNB
+Depart 2019-09-15T20:45:00.000+02:00
+Arrive 2019-09-15T22:45:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-16T16:35:00.000+02:00
+Arrive 2019-09-16T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAEIfvBAAAAA==
+Total Price: AOA259603
+Base Price: USD445.00
+Approx. Total Price: USD724.29
+Approx. Base Price: USD444.92
+Taxes: AOA100134
+Approx. Taxes: USD279.37
+
+Air Pricing Solutions Details 180:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 7032
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: BA
+Flight 6403
+From JNB
+To CPT
+Depart 2019-09-11T19:50:00.000+02:00
+Arrive 2019-09-11T22:00:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: BA
+Flight 6416
+From CPT
+To JNB
+Depart 2019-09-15T20:45:00.000+02:00
+Arrive 2019-09-15T22:45:00.000+02:00
+Airline: SA
+Flight 7031
+From JNB
+To LAD
+Depart 2019-09-16T16:35:00.000+02:00
+Arrive 2019-09-16T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKATjevBAAAAA==
+Total Price: AOA259603
+Base Price: USD445.00
+Approx. Total Price: USD724.29
+Approx. Base Price: USD444.92
+Taxes: AOA100134
+Approx. Taxes: USD279.37
+
+Air Pricing Solutions Details 181:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 573
+From LAD
+To WDH
+Depart 2019-09-11T10:25:00.000+01:00
+Arrive 2019-09-11T13:55:00.000+02:00
+Airline: BA
+Flight 6274
+From WDH
+To JNB
+Depart 2019-09-11T14:55:00.000+02:00
+Arrive 2019-09-11T16:45:00.000+02:00
+Airline: BA
+Flight 6407
+From JNB
+To CPT
+Depart 2019-09-11T19:25:00.000+02:00
+Arrive 2019-09-11T21:35:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 580
+From CPT
+To LAD
+Depart 2019-09-15T16:20:00.000+02:00
+Arrive 2019-09-15T19:20:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAWIfvBAAAAA==
+Total Price: AOA318828
+Base Price: USD607.00
+Approx. Total Price: USD889.53
+Approx. Base Price: USD606.89
+Taxes: AOA101305
+Approx. Taxes: USD282.64
+
+Air Pricing Solutions Details 182:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 573
+From LAD
+To WDH
+Depart 2019-09-11T10:25:00.000+01:00
+Arrive 2019-09-11T13:55:00.000+02:00
+Airline: BA
+Flight 6274
+From WDH
+To JNB
+Depart 2019-09-11T14:55:00.000+02:00
+Arrive 2019-09-11T16:45:00.000+02:00
+Airline: BA
+Flight 6403
+From JNB
+To CPT
+Depart 2019-09-11T19:50:00.000+02:00
+Arrive 2019-09-11T22:00:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 580
+From CPT
+To LAD
+Depart 2019-09-15T16:20:00.000+02:00
+Arrive 2019-09-15T19:20:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAdJfvBAAAAA==
+Total Price: AOA318828
+Base Price: USD607.00
+Approx. Total Price: USD889.53
+Approx. Base Price: USD606.89
+Taxes: AOA101305
+Approx. Taxes: USD282.64
+
+Air Pricing Solutions Details 183:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 573
+From LAD
+To WDH
+Depart 2019-09-11T10:25:00.000+01:00
+Arrive 2019-09-11T13:55:00.000+02:00
+Airline: BA
+Flight 6274
+From WDH
+To JNB
+Depart 2019-09-11T14:55:00.000+02:00
+Arrive 2019-09-11T16:45:00.000+02:00
+Airline: BA
+Flight 6415
+From JNB
+To CPT
+Depart 2019-09-11T20:40:00.000+02:00
+Arrive 2019-09-11T22:50:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 580
+From CPT
+To LAD
+Depart 2019-09-15T16:20:00.000+02:00
+Arrive 2019-09-15T19:20:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAtJfvBAAAAA==
+Total Price: AOA318828
+Base Price: USD607.00
+Approx. Total Price: USD889.53
+Approx. Base Price: USD606.89
+Taxes: AOA101305
+Approx. Taxes: USD282.64
+
+Air Pricing Solutions Details 184:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 573
+From LAD
+To WDH
+Depart 2019-09-11T10:25:00.000+01:00
+Arrive 2019-09-11T13:55:00.000+02:00
+Airline: BA
+Flight 6274
+From WDH
+To JNB
+Depart 2019-09-11T14:55:00.000+02:00
+Arrive 2019-09-11T16:45:00.000+02:00
+Airline: BA
+Flight 6407
+From JNB
+To CPT
+Depart 2019-09-11T19:25:00.000+02:00
+Arrive 2019-09-11T21:35:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 314
+From CPT
+To JNB
+Depart 2019-09-15T07:30:00.000+02:00
+Arrive 2019-09-15T09:25:00.000+02:00
+Airline: DT
+Flight 578
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKA9JfvBAAAAA==
+Total Price: AOA345491
+Base Price: USD607.00
+Approx. Total Price: USD963.92
+Approx. Base Price: USD606.89
+Taxes: AOA127968
+Approx. Taxes: USD357.03
+
+Air Pricing Solutions Details 185:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 573
+From LAD
+To WDH
+Depart 2019-09-11T10:25:00.000+01:00
+Arrive 2019-09-11T13:55:00.000+02:00
+Airline: BA
+Flight 6274
+From WDH
+To JNB
+Depart 2019-09-11T14:55:00.000+02:00
+Arrive 2019-09-11T16:45:00.000+02:00
+Airline: BA
+Flight 6403
+From JNB
+To CPT
+Depart 2019-09-11T19:50:00.000+02:00
+Arrive 2019-09-11T22:00:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 314
+From CPT
+To JNB
+Depart 2019-09-15T07:30:00.000+02:00
+Arrive 2019-09-15T09:25:00.000+02:00
+Airline: DT
+Flight 578
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAOKfvBAAAAA==
+Total Price: AOA345491
+Base Price: USD607.00
+Approx. Total Price: USD963.92
+Approx. Base Price: USD606.89
+Taxes: AOA127968
+Approx. Taxes: USD357.03
+
+Air Pricing Solutions Details 186:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 573
+From LAD
+To WDH
+Depart 2019-09-11T10:25:00.000+01:00
+Arrive 2019-09-11T13:55:00.000+02:00
+Airline: BA
+Flight 6274
+From WDH
+To JNB
+Depart 2019-09-11T14:55:00.000+02:00
+Arrive 2019-09-11T16:45:00.000+02:00
+Airline: BA
+Flight 6415
+From JNB
+To CPT
+Depart 2019-09-11T20:40:00.000+02:00
+Arrive 2019-09-11T22:50:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 314
+From CPT
+To JNB
+Depart 2019-09-15T07:30:00.000+02:00
+Arrive 2019-09-15T09:25:00.000+02:00
+Airline: DT
+Flight 578
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAfKfvBAAAAA==
+Total Price: AOA345491
+Base Price: USD607.00
+Approx. Total Price: USD963.92
+Approx. Base Price: USD606.89
+Taxes: AOA127968
+Approx. Taxes: USD357.03
+
+Air Pricing Solutions Details 187:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 573
+From LAD
+To WDH
+Depart 2019-09-11T10:25:00.000+01:00
+Arrive 2019-09-11T13:55:00.000+02:00
+Airline: BA
+Flight 6274
+From WDH
+To JNB
+Depart 2019-09-11T14:55:00.000+02:00
+Arrive 2019-09-11T16:45:00.000+02:00
+Airline: BA
+Flight 6407
+From JNB
+To CPT
+Depart 2019-09-11T19:25:00.000+02:00
+Arrive 2019-09-11T21:35:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 308
+From CPT
+To JNB
+Depart 2019-09-15T06:20:00.000+02:00
+Arrive 2019-09-15T08:15:00.000+02:00
+Airline: DT
+Flight 578
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAwKfvBAAAAA==
+Total Price: AOA345491
+Base Price: USD607.00
+Approx. Total Price: USD963.92
+Approx. Base Price: USD606.89
+Taxes: AOA127968
+Approx. Taxes: USD357.03
+
+Air Pricing Solutions Details 188:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 573
+From LAD
+To WDH
+Depart 2019-09-11T10:25:00.000+01:00
+Arrive 2019-09-11T13:55:00.000+02:00
+Airline: BA
+Flight 6274
+From WDH
+To JNB
+Depart 2019-09-11T14:55:00.000+02:00
+Arrive 2019-09-11T16:45:00.000+02:00
+Airline: BA
+Flight 6403
+From JNB
+To CPT
+Depart 2019-09-11T19:50:00.000+02:00
+Arrive 2019-09-11T22:00:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 308
+From CPT
+To JNB
+Depart 2019-09-15T06:20:00.000+02:00
+Arrive 2019-09-15T08:15:00.000+02:00
+Airline: DT
+Flight 578
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKABLfvBAAAAA==
+Total Price: AOA345491
+Base Price: USD607.00
+Approx. Total Price: USD963.92
+Approx. Base Price: USD606.89
+Taxes: AOA127968
+Approx. Taxes: USD357.03
+
+Air Pricing Solutions Details 189:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 573
+From LAD
+To WDH
+Depart 2019-09-11T10:25:00.000+01:00
+Arrive 2019-09-11T13:55:00.000+02:00
+Airline: BA
+Flight 6274
+From WDH
+To JNB
+Depart 2019-09-11T14:55:00.000+02:00
+Arrive 2019-09-11T16:45:00.000+02:00
+Airline: BA
+Flight 6415
+From JNB
+To CPT
+Depart 2019-09-11T20:40:00.000+02:00
+Arrive 2019-09-11T22:50:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 308
+From CPT
+To JNB
+Depart 2019-09-15T06:20:00.000+02:00
+Arrive 2019-09-15T08:15:00.000+02:00
+Airline: DT
+Flight 578
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKASLfvBAAAAA==
+Total Price: AOA345491
+Base Price: USD607.00
+Approx. Total Price: USD963.92
+Approx. Base Price: USD606.89
+Taxes: AOA127968
+Approx. Taxes: USD357.03
+
+Air Pricing Solutions Details 190:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 573
+From LAD
+To WDH
+Depart 2019-09-11T10:25:00.000+01:00
+Arrive 2019-09-11T13:55:00.000+02:00
+Airline: BA
+Flight 6274
+From WDH
+To JNB
+Depart 2019-09-11T14:55:00.000+02:00
+Arrive 2019-09-11T16:45:00.000+02:00
+Airline: BA
+Flight 6407
+From JNB
+To CPT
+Depart 2019-09-11T19:25:00.000+02:00
+Arrive 2019-09-11T21:35:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 302
+From CPT
+To JNB
+Depart 2019-09-15T06:00:00.000+02:00
+Arrive 2019-09-15T07:55:00.000+02:00
+Airline: DT
+Flight 578
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAjLfvBAAAAA==
+Total Price: AOA345491
+Base Price: USD607.00
+Approx. Total Price: USD963.92
+Approx. Base Price: USD606.89
+Taxes: AOA127968
+Approx. Taxes: USD357.03
+
+Air Pricing Solutions Details 191:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 573
+From LAD
+To WDH
+Depart 2019-09-11T10:25:00.000+01:00
+Arrive 2019-09-11T13:55:00.000+02:00
+Airline: BA
+Flight 6274
+From WDH
+To JNB
+Depart 2019-09-11T14:55:00.000+02:00
+Arrive 2019-09-11T16:45:00.000+02:00
+Airline: BA
+Flight 6403
+From JNB
+To CPT
+Depart 2019-09-11T19:50:00.000+02:00
+Arrive 2019-09-11T22:00:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 302
+From CPT
+To JNB
+Depart 2019-09-15T06:00:00.000+02:00
+Arrive 2019-09-15T07:55:00.000+02:00
+Airline: DT
+Flight 578
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKA0LfvBAAAAA==
+Total Price: AOA345491
+Base Price: USD607.00
+Approx. Total Price: USD963.92
+Approx. Base Price: USD606.89
+Taxes: AOA127968
+Approx. Taxes: USD357.03
+
+Air Pricing Solutions Details 192:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 573
+From LAD
+To WDH
+Depart 2019-09-11T10:25:00.000+01:00
+Arrive 2019-09-11T13:55:00.000+02:00
+Airline: BA
+Flight 6274
+From WDH
+To JNB
+Depart 2019-09-11T14:55:00.000+02:00
+Arrive 2019-09-11T16:45:00.000+02:00
+Airline: BA
+Flight 6415
+From JNB
+To CPT
+Depart 2019-09-11T20:40:00.000+02:00
+Arrive 2019-09-11T22:50:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 302
+From CPT
+To JNB
+Depart 2019-09-15T06:00:00.000+02:00
+Arrive 2019-09-15T07:55:00.000+02:00
+Airline: DT
+Flight 578
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAFMfvBAAAAA==
+Total Price: AOA345491
+Base Price: USD607.00
+Approx. Total Price: USD963.92
+Approx. Base Price: USD606.89
+Taxes: AOA127968
+Approx. Taxes: USD357.03
+
+Air Pricing Solutions Details 193:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 573
+From LAD
+To WDH
+Depart 2019-09-11T10:25:00.000+01:00
+Arrive 2019-09-11T13:55:00.000+02:00
+Airline: BA
+Flight 6274
+From WDH
+To JNB
+Depart 2019-09-11T14:55:00.000+02:00
+Arrive 2019-09-11T16:45:00.000+02:00
+Airline: BA
+Flight 6407
+From JNB
+To CPT
+Depart 2019-09-11T19:25:00.000+02:00
+Arrive 2019-09-11T21:35:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 372
+From CPT
+To JNB
+Depart 2019-09-15T19:55:00.000+02:00
+Arrive 2019-09-15T21:50:00.000+02:00
+Airline: DT
+Flight 576
+From JNB
+To LAD
+Depart 2019-09-16T06:50:00.000+02:00
+Arrive 2019-09-16T09:50:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAWMfvBAAAAA==
+Total Price: AOA345491
+Base Price: USD607.00
+Approx. Total Price: USD963.92
+Approx. Base Price: USD606.89
+Taxes: AOA127968
+Approx. Taxes: USD357.03
+
+Air Pricing Solutions Details 194:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 573
+From LAD
+To WDH
+Depart 2019-09-11T10:25:00.000+01:00
+Arrive 2019-09-11T13:55:00.000+02:00
+Airline: BA
+Flight 6274
+From WDH
+To JNB
+Depart 2019-09-11T14:55:00.000+02:00
+Arrive 2019-09-11T16:45:00.000+02:00
+Airline: BA
+Flight 6403
+From JNB
+To CPT
+Depart 2019-09-11T19:50:00.000+02:00
+Arrive 2019-09-11T22:00:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 372
+From CPT
+To JNB
+Depart 2019-09-15T19:55:00.000+02:00
+Arrive 2019-09-15T21:50:00.000+02:00
+Airline: DT
+Flight 576
+From JNB
+To LAD
+Depart 2019-09-16T06:50:00.000+02:00
+Arrive 2019-09-16T09:50:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAnMfvBAAAAA==
+Total Price: AOA345491
+Base Price: USD607.00
+Approx. Total Price: USD963.92
+Approx. Base Price: USD606.89
+Taxes: AOA127968
+Approx. Taxes: USD357.03
+
+Air Pricing Solutions Details 195:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 573
+From LAD
+To WDH
+Depart 2019-09-11T10:25:00.000+01:00
+Arrive 2019-09-11T13:55:00.000+02:00
+Airline: BA
+Flight 6274
+From WDH
+To JNB
+Depart 2019-09-11T14:55:00.000+02:00
+Arrive 2019-09-11T16:45:00.000+02:00
+Airline: BA
+Flight 6415
+From JNB
+To CPT
+Depart 2019-09-11T20:40:00.000+02:00
+Arrive 2019-09-11T22:50:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 372
+From CPT
+To JNB
+Depart 2019-09-15T19:55:00.000+02:00
+Arrive 2019-09-15T21:50:00.000+02:00
+Airline: DT
+Flight 576
+From JNB
+To LAD
+Depart 2019-09-16T06:50:00.000+02:00
+Arrive 2019-09-16T09:50:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAIJfvBAAAAA==
+Total Price: AOA345491
+Base Price: USD607.00
+Approx. Total Price: USD963.92
+Approx. Base Price: USD606.89
+Taxes: AOA127968
+Approx. Taxes: USD357.03
+
+Air Pricing Solutions Details 196:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 573
+From LAD
+To WDH
+Depart 2019-09-11T10:25:00.000+01:00
+Arrive 2019-09-11T13:55:00.000+02:00
+Airline: BA
+Flight 6274
+From WDH
+To JNB
+Depart 2019-09-11T14:55:00.000+02:00
+Arrive 2019-09-11T16:45:00.000+02:00
+Airline: BA
+Flight 6407
+From JNB
+To CPT
+Depart 2019-09-11T19:25:00.000+02:00
+Arrive 2019-09-11T21:35:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 326
+From CPT
+To JNB
+Depart 2019-09-15T11:25:00.000+02:00
+Arrive 2019-09-15T13:20:00.000+02:00
+Airline: DT
+Flight 578
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKA5MfvBAAAAA==
+Total Price: AOA394586
+Base Price: USD744.00
+Approx. Total Price: USD1100.89
+Approx. Base Price: USD743.86
+Taxes: AOA127968
+Approx. Taxes: USD357.03
+
+Air Pricing Solutions Details 197:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 573
+From LAD
+To WDH
+Depart 2019-09-11T10:25:00.000+01:00
+Arrive 2019-09-11T13:55:00.000+02:00
+Airline: BA
+Flight 6274
+From WDH
+To JNB
+Depart 2019-09-11T14:55:00.000+02:00
+Arrive 2019-09-11T16:45:00.000+02:00
+Airline: BA
+Flight 6403
+From JNB
+To CPT
+Depart 2019-09-11T19:50:00.000+02:00
+Arrive 2019-09-11T22:00:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 326
+From CPT
+To JNB
+Depart 2019-09-15T11:25:00.000+02:00
+Arrive 2019-09-15T13:20:00.000+02:00
+Airline: DT
+Flight 578
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAKNfvBAAAAA==
+Total Price: AOA394586
+Base Price: USD744.00
+Approx. Total Price: USD1100.89
+Approx. Base Price: USD743.86
+Taxes: AOA127968
+Approx. Taxes: USD357.03
+
+Air Pricing Solutions Details 198:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 573
+From LAD
+To WDH
+Depart 2019-09-11T10:25:00.000+01:00
+Arrive 2019-09-11T13:55:00.000+02:00
+Airline: BA
+Flight 6274
+From WDH
+To JNB
+Depart 2019-09-11T14:55:00.000+02:00
+Arrive 2019-09-11T16:45:00.000+02:00
+Airline: BA
+Flight 6415
+From JNB
+To CPT
+Depart 2019-09-11T20:40:00.000+02:00
+Arrive 2019-09-11T22:50:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 326
+From CPT
+To JNB
+Depart 2019-09-15T11:25:00.000+02:00
+Arrive 2019-09-15T13:20:00.000+02:00
+Airline: DT
+Flight 578
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAiIfvBAAAAA==
+Total Price: AOA394586
+Base Price: USD744.00
+Approx. Total Price: USD1100.89
+Approx. Base Price: USD743.86
+Taxes: AOA127968
+Approx. Taxes: USD357.03
+
+Air Pricing Solutions Details 199:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 577
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 347
+From JNB
+To CPT
+Depart 2019-09-11T15:30:00.000+02:00
+Arrive 2019-09-11T17:40:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 326
+From CPT
+To JNB
+Depart 2019-09-15T11:25:00.000+02:00
+Arrive 2019-09-15T13:20:00.000+02:00
+Airline: DT
+Flight 578
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAcNfvBAAAAA==
+Total Price: AOA398288
+Base Price: USD890.00
+Approx. Total Price: USD1111.23
+Approx. Base Price: USD889.84
+Taxes: AOA79350
+Approx. Taxes: USD221.39
+Refundable: true
+
+Air Pricing Solutions Details 200:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 577
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 357
+From JNB
+To CPT
+Depart 2019-09-11T17:05:00.000+02:00
+Arrive 2019-09-11T19:15:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 326
+From CPT
+To JNB
+Depart 2019-09-15T11:25:00.000+02:00
+Arrive 2019-09-15T13:20:00.000+02:00
+Airline: DT
+Flight 578
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKApNfvBAAAAA==
+Total Price: AOA398288
+Base Price: USD890.00
+Approx. Total Price: USD1111.23
+Approx. Base Price: USD889.84
+Taxes: AOA79350
+Approx. Taxes: USD221.39
+Refundable: true
+
+Air Pricing Solutions Details 201:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 577
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 363
+From JNB
+To CPT
+Depart 2019-09-11T18:45:00.000+02:00
+Arrive 2019-09-11T20:55:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 326
+From CPT
+To JNB
+Depart 2019-09-15T11:25:00.000+02:00
+Arrive 2019-09-15T13:20:00.000+02:00
+Airline: DT
+Flight 578
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKA2NfvBAAAAA==
+Total Price: AOA398288
+Base Price: USD890.00
+Approx. Total Price: USD1111.23
+Approx. Base Price: USD889.84
+Taxes: AOA79350
+Approx. Taxes: USD221.39
+Refundable: true
+
+Air Pricing Solutions Details 202:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 577
+From LAD
+To JNB
+Depart 2019-09-11T09:20:00.000+01:00
+Arrive 2019-09-11T13:50:00.000+02:00
+Airline: SA
+Flight 377
+From JNB
+To CPT
+Depart 2019-09-11T21:15:00.000+02:00
+Arrive 2019-09-11T23:25:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 326
+From CPT
+To JNB
+Depart 2019-09-15T11:25:00.000+02:00
+Arrive 2019-09-15T13:20:00.000+02:00
+Airline: DT
+Flight 578
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKADOfvBAAAAA==
+Total Price: AOA398288
+Base Price: USD890.00
+Approx. Total Price: USD1111.23
+Approx. Base Price: USD889.84
+Taxes: AOA79350
+Approx. Taxes: USD221.39
+Refundable: true
+
+Air Pricing Solutions Details 203:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: DT
+Flight 5055
+From LAD
+To JNB
+Depart 2019-09-11T13:25:00.000+01:00
+Arrive 2019-09-11T17:45:00.000+02:00
+Airline: SA
+Flight 377
+From JNB
+To CPT
+Depart 2019-09-11T21:15:00.000+02:00
+Arrive 2019-09-11T23:25:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: SA
+Flight 326
+From CPT
+To JNB
+Depart 2019-09-15T11:25:00.000+02:00
+Arrive 2019-09-15T13:20:00.000+02:00
+Airline: DT
+Flight 578
+From JNB
+To LAD
+Depart 2019-09-15T16:35:00.000+02:00
+Arrive 2019-09-15T19:05:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAwIfvBAAAAA==
+Total Price: AOA398288
+Base Price: USD890.00
+Approx. Total Price: USD1111.23
+Approx. Base Price: USD889.84
+Taxes: AOA79350
+Approx. Taxes: USD221.39
+Refundable: true
+
+Air Pricing Solutions Details 204:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: ET
+Flight 850
+From LAD
+To ADD
+Depart 2019-09-11T13:50:00.000+01:00
+Arrive 2019-09-11T20:55:00.000+03:00
+Airline: ET
+Flight 847
+From ADD
+To CPT
+Depart 2019-09-12T08:15:00.000+03:00
+Arrive 2019-09-12T13:45:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: ET
+Flight 846
+From CPT
+To ADD
+Depart 2019-09-15T14:45:00.000+02:00
+Arrive 2019-09-15T22:10:00.000+03:00
+Airline: ET
+Flight 851
+From ADD
+To LAD
+Depart 2019-09-16T09:40:00.000+03:00
+Arrive 2019-09-16T12:50:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAZOfvBAAAAA==
+Total Price: AOA578614
+Base Price: USD1382.00
+Approx. Total Price: USD1614.34
+Approx. Base Price: USD1381.75
+Taxes: AOA83364
+Approx. Taxes: USD232.59
+Refundable: true
+
+Air Pricing Solutions Details 205:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: ET
+Flight 850
+From LAD
+To ADD
+Depart 2019-09-11T13:50:00.000+01:00
+Arrive 2019-09-11T20:55:00.000+03:00
+Airline: ET
+Flight 847
+From ADD
+To CPT
+Depart 2019-09-12T08:15:00.000+03:00
+Arrive 2019-09-12T13:45:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: ET
+Flight 1101
+From CPT
+To JNB
+Depart 2019-09-15T07:30:00.000+02:00
+Arrive 2019-09-15T09:25:00.000+02:00
+Airline: ET
+Flight 808
+From JNB
+To ADD
+Depart 2019-09-15T14:10:00.000+02:00
+Arrive 2019-09-15T20:25:00.000+03:00
+Airline: ET
+Flight 851
+From ADD
+To LAD
+Depart 2019-09-16T09:40:00.000+03:00
+Arrive 2019-09-16T12:50:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAiOfvBAAAAA==
+Total Price: AOA598826
+Base Price: USD1382.00
+Approx. Total Price: USD1670.73
+Approx. Base Price: USD1381.75
+Taxes: AOA103576
+Approx. Taxes: USD288.98
+Refundable: true
+
+Air Pricing Solutions Details 206:
+--------------------------------------
+
+Journey Details: 
+--------------------------------------
+Airline: EK
+Flight 794
+From LAD
+To DXB
+Depart 2019-09-11T18:15:00.000+01:00
+Arrive 2019-09-12T05:00:00.000+04:00
+Airline: EK
+Flight 770
+From DXB
+To CPT
+Depart 2019-09-12T09:05:00.000+04:00
+Arrive 2019-09-12T16:45:00.000+02:00
+
+Journey Details: 
+--------------------------------------
+Airline: EK
+Flight 771
+From CPT
+To DXB
+Depart 2019-09-15T18:20:00.000+02:00
+Arrive 2019-09-16T05:45:00.000+04:00
+Airline: EK
+Flight 793
+From DXB
+To LAD
+Depart 2019-09-16T09:45:00.000+04:00
+Arrive 2019-09-16T14:30:00.000+01:00
+
+Pricing Details: 
+--------------------------------------
+Key: Dz2H4z4R2BKAAPfvBAAAAA==
+Total Price: AOA1394874
+Base Price: USD3506.00
+Approx. Total Price: USD3891.70
+Approx. Base Price: USD3505.36
+Taxes: AOA138474
+Approx. Taxes: USD386.34
+Refundable: true
+
